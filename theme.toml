@@ -5,7 +5,7 @@ description = "Use the website builder to easily build your site with 50+ widget
 homepage = "https://wowchemy.com/templates/"
 min_version = "0.81"
 tags = ["widgets",
-        "resume",
+	"resume",
         "portfolio",
         "responsive",
         "clean",
