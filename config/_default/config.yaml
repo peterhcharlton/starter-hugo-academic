@@ -35,7 +35,7 @@ paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$] # To ignore a specific page, add something like: , /content/post/safer_wearables_testing/index.md, /content/home/posts.md
 permalinks:
   event: '/talk/:slug/'
   tags: '/tag/:slug/'

@@ -10,7 +10,7 @@ role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Oxford
+- name: University of Cambridge
   url: https://www.phpc.cam.ac.uk/people/pcu-group/researchers/peter-charlton/
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,7 +20,7 @@ bio: Biomedical Engineer specialising in signal processing for wearables.
 interests:
 - Signal processing
 - Wearables
-- Photoplethysmography
+- Cardiovascular monitoring
 
 # Education to show in About widget
 education:
@@ -40,6 +40,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:pete@oxon.org'
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3836-8655
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PeterHCharlton
@@ -67,6 +70,8 @@ email: "pete@oxon.org"
 highlight_name: true
 ---
 
-Peter Charlton is a British Heart Foundation Research Fellow in the Department of Public Health and Primary Care, at the University of Cambridge. He specialises in the development of biomedical signal processing techniques to aid clinical decision making. He gained the degree of M.Eng. in Engineering Science in 2010 from the University of Oxford with first class honours. From 2010 to 2020, Peter conducted his research at King?s College London (KCL), developing techniques to continuously monitor respiratory and cardiovascular health using wearable sensors. His Ph.D. focused on using signal processing and machine learning techniques to identify acute deteriorations in hospital patients. In 2020, Peter was awarded a five-year fellowship to develop techniques to use clinical and consumer devices to enhance screening for atrial fibrillation. He works in collaboration with clinicians and industrial partners to translate his work into clinical practice.
+Peter Charlton is a British Heart Foundation Research Fellow in the Department of Public Health and Primary Care, at the University of Cambridge. He specialises in the development of biomedical signal processing techniques to aid clinical decision making. 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Peter gained the degree of M.Eng. in Engineering Science in 2010 from the University of Oxford with first class honours. From 2010 to 2020, Peter conducted his research at King's College London, developing techniques to continuously monitor respiratory and cardiovascular health using wearable sensors. His Ph.D. focused on using signal processing and machine learning techniques to identify acute deteriorations in hospital patients. In 2020, Peter was awarded a five-year fellowship to develop techniques to use clinical and consumer devices to enhance screening for atrial fibrillation. 
+
+Peter works in collaboration with clinicians and industrial partners to translate his work into clinical practice.

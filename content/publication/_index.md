@@ -7,10 +7,12 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
+view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
 ---
+
+This page provides details of selected publications. For a complete list of publications see my [Google Scholar profile](https://scholar.google.co.uk/citations?user=BJjD81oAAAAJ&hl=en)
