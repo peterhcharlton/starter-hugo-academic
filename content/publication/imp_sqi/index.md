@@ -37,7 +37,7 @@ summary: Design and assessment of a signal quality index for the impedance pneum
 tags: [impedance pneumography]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1746809420304535/pdfft?md5=5e1d652e5a0ec73e95458825b143b0de&pid=1-s2.0-S1746809420304535-main.pdf'
 url_code: 'https://doi.org/10.5281/zenodo.3973770'
