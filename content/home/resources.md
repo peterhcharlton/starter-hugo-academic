@@ -11,11 +11,15 @@ headless: true
 weight: 40
 
 title: Resources
-subtitle: 'Useful resources for researchers'
+subtitle: '[More Resources](./info/)'
 
 ---
 
-See [here](https://peterhcharlton.github.io/info) for resources which I have used in teaching and research, including:
-- [Algorithms](/info/algorithms)
-- [Datasets](/info/datasets)
-- [Images](/info/images)
+Resources which I have used in teaching and research, including:
+## [Algorithms](/info/algorithms)
+## [Datasets](/info/datasets)
+## [Images](/info/images)
+
+&nbsp;
+
+[SEE ALL RESOURCES <i class="fas fa-angle-right"></i>](./info/)

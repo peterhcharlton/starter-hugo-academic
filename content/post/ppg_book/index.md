@@ -26,7 +26,7 @@ image:
   caption: 'Image credit: [**P. Charlton**](https://commons.wikimedia.org/wiki/File:Photoplethysmogram_(PPG)_pulse_wave.svg) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))'
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
 
 authors:
 - admin
