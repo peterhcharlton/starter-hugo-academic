@@ -23,10 +23,10 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**P. Charlton**](https://commons.wikimedia.org/wiki/File:Photoplethysmogram_(PPG)_pulse_wave.svg) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))'
+  caption: 'Image credit: [**P. Charlton**](https://commons.wikimedia.org/wiki/File:Photoplethysmogram_signal_components.svg) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))'
   focal_point: ""
   placement: 2
-  preview_only: true
+  preview_only: false
 
 authors:
 - admin

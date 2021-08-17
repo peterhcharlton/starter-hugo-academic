@@ -50,4 +50,4 @@ Further details of the award are available on the Institute's [website](https://
 
 ## Further resources
 
-As detailed on the Institute's [website](https://www.ipem.ac.uk/AboutIPEM/PrizesandAwards.aspx), individuals can apply for this award each year. Any potential applicants may be interested to read the content of my application [here](./tips/past_applications/ipem_academic_early_career_award).
+As detailed on the Institute's [website](https://www.ipem.ac.uk/AboutIPEM/PrizesandAwards.aspx), individuals can apply for this award each year. Any potential applicants may be interested to read the content of my application [here](https://peterhcharlton.github.io/info/tips/past_applications/ipem_academic_early_career_award).
