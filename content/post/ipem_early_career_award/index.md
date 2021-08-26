@@ -3,7 +3,7 @@ title: Academic Early Career Award
 subtitle: An award from the Institute of Physics and Engineering in Medicine, for significant contribution to advancement of academic practice and research.
 
 # Summary for listings and search engines
-summary: Peter Charlton awarded the Academic Early Career Award from the Institute of Physics and Engineering in Medicine.
+summary: Peter Charlton was awarded the 2021 Academic Early Career Award from the Institute of Physics and Engineering in Medicine.
 
 # Link this post with a project
 projects: []

@@ -39,6 +39,11 @@ tags: [impedance pneumography]
 # Display this page in the Featured widget?
 featured: false
 
+# Custom links (uncomment lines below)
+links:
+ - name: Submitted Manuscript
+   url: https://zenodo.org/record/5211463/files/Impedance%20SQI%20manuscript%20-%20Oct%202020%20revision.docx?download=1
+
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1746809420304535/pdfft?md5=5e1d652e5a0ec73e95458825b143b0de&pid=1-s2.0-S1746809420304535-main.pdf'
 url_code: 'https://doi.org/10.5281/zenodo.3973770'
 url_dataset: 'https://doi.org/10.5281/zenodo.3973770'

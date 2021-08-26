@@ -39,9 +39,9 @@ tags: [photoplethysmography, blood pressure, cardiovascular modelling]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Submitted Manuscript
+   url: https://zenodo.org/record/5211457/files/Modelling%20arterial%20pulse%20waves%20in%20healthy%20ageing%20%28submitted%20manuscript%29.docx?download=1
 
 url_pdf: 'https://journals.physiology.org/doi/pdf/10.1152/ajpheart.00218.2019'
 url_code: 'https://github.com/peterhcharlton/pwdb/wiki'

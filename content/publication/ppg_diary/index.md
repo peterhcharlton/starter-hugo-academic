@@ -37,9 +37,9 @@ tags: [wearables, photoplethysmography]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Submitted Manuscript
+   url: https://zenodo.org/record/5211472/files/PCharlton%20et%20al%20-%20Acquiring%20wearable%20PPG%20data%20%28submitted%20manuscript%29.docx?download=1
 
 url_pdf: 'https://sciforum.net/manuscripts/8233/manuscript.pdf'
 url_code: 'https://github.com/peterhcharlton/ppg-diary/tree/master/ppg-diary_v1.0'
