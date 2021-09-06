@@ -66,6 +66,8 @@ Owlet Smart Sock Baby Monitor 3 | ankle sock | Y | N | Y | N | N | Y | N | N | N
 AIO Sleeve 2.0 | arm sleeve | Y | N | Y | N | N | Y | Y | N | Y | Y | N | N |
 Polar OH1 Sensor | armband OR goggles | Y | N | N | N | N | N | N | Y | N | N | N | N |
 
+_Defintions: irreg. - irregular pulse detection; RR - respiratory rate; BP - blood pressure; temp - temperature._
+
 ## Sources
 
 Adapted under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) from:
