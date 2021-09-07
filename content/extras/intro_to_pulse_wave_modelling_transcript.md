@@ -18,6 +18,8 @@ header:
 
 This transcript accompanies [this talk](/talk/introduction-to-modelling-arterial-pulse-waves/).
 
+Some of the transcript content is reproduced from the [accompanying paper](/publication/simulating_pulse_waves/) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 ---
 
 ## Title Slide
@@ -233,9 +235,73 @@ _Assessing Vascular Age from the Photoplethysmogram: A Systematic Review from Va
 
 ### Pulse Pressure Amplification
 
-$$Pulse Pressure Amplification = \frac{brachial pulse pressure}{aortic pulse pressure}$$
+$$\mathrm{Pulse \ Pressure \ Amplification} = \frac{\mathrm{brachial \ pulse \ pressure}}{\mathrm{aortic \ pulse \ pressure}}$$
+
+**Questions:**
+1. How does pulse pressure amplification change with age?
+2. Why?
+
+### Methods
+
+In this case study, we investigated the determinants of changes in PPamp with age. To do so, we assessed the effects of age on early systolic amplification and late systolic aortic pressure augmentation, calculated using the aortic PP at P1 and P2, respectively.
+
+### Results
+
+{{< figure src="https://journals.physiology.org/cms/10.1152/ajpheart.00218.2019/asset/images/large/zh40101929420008.jpeg" caption="The causes of changes in pulse pressure (PP) amplification (PPamp) with age. <br> _Source: PH Charlton et al., doi: [10.1152/ajpheart.00218.2019](https://doi.org/10.1152/ajpheart.00218.2019) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))._">}}
+
+**Question:** In A and B: how does the pulse wave change shape with distance from the aortic root to the finger? How does this differ with age?
+
+Discuss:
+
+The profiles demonstrate that two mechanisms influence PPamp (PPamp / PPb/PPa; subscripts "a" and "b" indicate aortic and brachial, respectively):
+1. The early systolic portion was amplified in both subjects, causing SBPb to be greater than SBPa and therefore PPamp > 1. 
+2. Late systolic aortic pressure augmentation (the increase in pressure from P1a to P2a) was higher in older subjects, increasing PPa and decreasing PPamp.
+
+The contributions of these mechanisms to PPamp for the whole database are illustrated in panel C. The amplification of the early systolic portion increased with age, as shown in red by PPb/(P1a > DBPa). In contrast, the increase in late systolic aortic pressure augmentation with age (in blue) caused a decrease in PPb/(P2a > DBPa) with age. The effect of aortic pressure augmentation outweighed that of early systolic amplification, meaning PPamp decreased substantially with age, in keeping with in vivo studies. 
+
+Early systolic amplification was determined primarily by the diameter of the larger arteries, and late systolic aortic pressure augmentation was largely determined by PWV and LVET, as shown in panels D and E. Indeed, since PPamp was primarily determined by late systolic aortic pressure augmentation, it was largely determined by arterial stiffness (i.e., PWV) and LVET, as shown in panel F. The change in PPamp observed with age was primarily due to changes in aortic pressure wave morphology.
+
+### Implications
+
+The database can be used to gain insight into the CV determinants of mechanisms of blood flow.
 
 ---
+
+# Part 4
+
+## Potential studies using blood flow modelling
+
+---
+
+### Exploring potential studies
+
+Think of a study in which pulse wave modelling could be useful.
+
+Consider:
+- Research question
+- What would need to be simulated?
+- Under what conditions?
+- In which ways would the model need to be particularly accurate?
+
+### Limitations
+
+- Dependent on model accuracy
+- Which in turn, is dependent on input parameters
+- Often requires specialist knowledge to perform studies
+
+### Benefits 
+
+- Allows pulse waves to be simulated under different conditions
+- Control of physiology
+- Free of measurement error
+- Potentially cheap, and doesn't require participant involvement
+
+### Opportunities
+
+- Preliminary pilot work in technology development
+- Inform the design of _in vivo_ studies
+- Understand the potential shortcomings of existing technologies
+- Understand the mechanisms underlying haemodynamic observations
 
 ## Further Reading and Resources
 
@@ -247,5 +313,8 @@ See the following:
 
 ## Acknowledgment
 
-None of this would have been possible without [Dr Jordi Alastruey-Arimon](http://haemod.uk/members/ja), who provided the [model](http://haemod.uk/nektar) and supervision, and also the British Heart Foundation, who funded the work.
+None of this would have been possible without:
+- [Dr Jordi Alastruey-Arimon](http://haemod.uk/members/ja), who provided the [model](http://haemod.uk/nektar) and supervision
+- The British Heart Foundation, who funded the work
+- COST Action CA18216 "Network for Research in Vascular Ageing" supported by COST (European Cooperation in Science and Technology)
 

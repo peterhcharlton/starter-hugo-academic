@@ -198,3 +198,117 @@ _Assessing Vascular Age from the Photoplethysmogram: A Systematic Review from Va
 
 ---
 
+### Pulse Pressure Amplification
+
+$$\mathrm{Pulse \ Pressure \ Amplification} = \frac{\mathrm{brachial \ pulse \ pressure}}{\mathrm{aortic \ pulse \ pressure}}$$
+
+**Questions:**
+1. How does pulse pressure amplification change with age?
+2. Why?
+
+---
+
+### Methods
+
+Investigated the effects of age on:
+- Early systolic amplification (P1)
+- Late systolic pressure augmentation (P2)
+
+at the aorta.
+
+---
+
+### Results
+
+[![](https://journals.physiology.org/cms/10.1152/ajpheart.00218.2019/asset/images/large/zh40101929420008.jpeg)](https://journals.physiology.org/cms/10.1152/ajpheart.00218.2019/asset/images/large/zh40101929420008.jpeg)
+
+---
+
+### Implications
+
+The database can be used to gain insight into the CV determinants of mechanisms of blood flow.
+
+1. When might this be helpful?
+2. How should this approach be used:
+   - instead of clinical studies
+   - as well as clinical studies, or
+   - not at all?
+
+---
+
+### Related Work
+
+See the following for similar work, investigating the accuracy of methods for assessing pulse wave velocity:
+
+Willemet M _et al._, _A database of virtual healthy subjects to assess the accuracy of foot-to-foot pulse wave velocities for estimation of aortic stiffness_, doi: [10.1152/ajpheart.00175.2015](https://doi.org/10.1152/ajpheart.00175.2015)
+
+---
+
+# Part 4
+
+## Potential studies using blood flow modelling
+
+---
+
+### Exploring potential studies
+
+Think of a study in which pulse wave modelling could be useful.
+
+Consider:
+- Research question
+- What would need to be simulated?
+- Under what conditions?
+- In which ways would the model need to be particularly accurate?
+
+---
+
+### Limitations
+
+- Dependent on model accuracy
+- Which in turn, is dependent on input parameters
+- Often requires specialist knowledge to perform studies
+
+---
+
+### Benefits 
+
+- Allows pulse waves to be simulated under different conditions
+- Control of physiology
+- Free of measurement error
+- Potentially cheap, and doesn't require participant involvement
+
+---
+
+### Opportunities
+
+- Preliminary pilot work in technology development
+- Inform the design of _in vivo_ studies
+- Understand the potential shortcomings of existing technologies
+- Understand the mechanisms underlying haemodynamic observations
+
+--- 
+
+### Further Resources
+
+See the following:
+- [Accompanying article](https://peterhcharlton.github.io/publication/simulating_pulse_waves/)
+- [Database](https://peterhcharlton.github.io/pwdb/pwdb.html)
+- [User Manual](https://github.com/peterhcharlton/pwdb/wiki)
+- [Code for case studies](https://github.com/peterhcharlton/pwdb/wiki/Case-Studies)
+
+---
+
+## Acknowledgment
+
+None of this would have been possible without:
+- [Dr Jordi Alastruey-Arimon](http://haemod.uk/members/ja), who provided the [model](http://haemod.uk/nektar) and supervision
+- The British Heart Foundation, who funded the work
+- COST Action CA18216 "Network for Research in Vascular Ageing" supported by COST (European Cooperation in Science and Technology)
+
+---
+
+## Thank you
+
+[peterhcharlton.github.io](https://peterhcharlton.github.io/talk/introduction-to-modelling-arterial-pulse-waves/)
+
+_**See this website for resources.**_
