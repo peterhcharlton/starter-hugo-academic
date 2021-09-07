@@ -18,7 +18,7 @@ header:
 
 This transcript accompanies [this talk](/talk/introduction-to-modelling-arterial-pulse-waves/).
 
-# Transcript
+---
 
 ## Title Slide
 
@@ -30,6 +30,14 @@ Personal introduction:
 - Institutions
 - Current interests, and interests in vascular ageing.
 
+---
+
+# Part 1
+
+## An Introduction to Pulse Wave Modelling using a 1D Model
+
+---
+
 ## Introduction
 
 I've used modelling in [my research](/publication/simulating_pulse_waves/) to simulate pulse waves, to investigate how vascular age can be assessed from arterial pulse waves. I've found it a useful tool for:
@@ -37,13 +45,15 @@ I've used modelling in [my research](/publication/simulating_pulse_waves/) to si
 2. **Designing algorithms**: Designing algorithms to assess vascular age, by developing them using data from simulated subjects across a wide range of ages, and a wide range of cardiovascular properties.
 3. **Investigating algorithm performance**: Investigating which cardiovascular properties can affect algorithm performance.
 
-In this session I'll provide a brief overview of how this particular model works, and then demonstrate its utility through three case studies. I'll conclude with some thoughts on the limitations, benefits and opportunities of this type of modelling.
+In this session I'll provide a brief overview of how this particular model works, and then demonstrate its utility through case studies. I'll conclude with some thoughts on the limitations, benefits and opportunities of this type of modelling.
 
 ## Accompanying Resources
 
 You may find it helpful to have the [slides](/slides/intro_to_pulse_wave_modelling_slides/) in front of you.
 
 During the session I'll ask a few questions, which you can contribute to either verbally, or through the [online poll](https://app.sli.do/event/1zunclmb). Do feel free to interrupt at any point.
+
+---
 
 ## 1D Modelling
 
@@ -86,7 +96,7 @@ One of the benefits of this type of modelling is that it allows waveforms to be 
   3. Not able to model venous flow
 </details>
 
-## Model Input Parameters
+## Input Parameters
 
 The model requires a plethora of 'input parameters' (_i.e._ 'settings'), such as the heart rate, stiffness of each artery, and systemic vascular resistance. Some of these parameters have a marked impact on the simulated pulse waves, whereas others have only a small impact. For instance, the image below shows how the variation of each of the following input parameters impacts the simulated carotid and radial waveforms:
 - HR: heart rate
@@ -100,13 +110,19 @@ The model requires a plethora of 'input parameters' (_i.e._ 'settings'), such as
 - MAP: mean blood pressure
 - PVC: peripheral vascular compliance
 
-## Changing Model Input Parameters
+## Changing Inputs
 
 **Question:** Which parameters would be most interesting to change, and why?
 
-## Changing Model Input Parameters (2)
+**Question:** Which parameters are most relevant to vascular ageing?
+
+## Changing Inputs (2)
 
 {{< figure src="https://journals.physiology.org/cms/10.1152/ajpheart.00218.2019/asset/images/large/zh40101929420003.jpeg" caption="**Pulse waves (PWs) for the 25-yr-old subject at the carotid artery (A) and the radial artery (B).** The waves shown are at baseline (black), and those obtained when increasing (blue) and decreasing (red) each parameter independently by 1 SD from its baseline value. <br> _Source: PH Charlton et al., doi: [10.1152/ajpheart.00218.2019](https://doi.org/10.1152/ajpheart.00218.2019) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))._">}}
+
+- Discuss figure: which parameters strongly influence the waves, and which don't?
+
+## Changing Inputs (3)
 
 A set of input parameters suitable for simulating pulse waves for young adults was proposed by (amongst others) [Mynard and Smolich](http://link.springer.com/10.1007/s10439-015-1313-8). We extended this by proposing a range of parameters to simulate pulse waves for healthy subjects aged 25-75, exhibiting a range of cardiovascular properties. Our proposed ranges of parameters are shown below:
 
@@ -114,7 +130,7 @@ A set of input parameters suitable for simulating pulse waves for young adults w
 
 These ranges of parameters are based on a review of those reported in the literature.
 
-### Creating a set of Virtual Subjects 
+### A set of Virtual Subjects 
 
 We aimed to create a set of virtual subjects representative of a sample of healthy subjects aged 25-75 years old. To do so:
 1. **Baseline subject at each age:** We created a baseline subject for each age (25 to 75, in 10 year intervals), using the mean value of each parameter at that age.
@@ -129,21 +145,97 @@ We verified this approach for simulating pulse waves for subjects of different a
 
 **Poll Question:** [How well did the model perform?](https://app.sli.do/event/1zunclmb)
 
+### Thoughts on Performance
+
 <details>
   <summary>A few thoughts</summary>
   
   1. Captured increase in amplitude of second systolic peaks with age in carotid, aortic root and radial pressure waveforms.
   2. Captured disappearance of second peak of finger PPG waveform with age.
-  3. Still, some marked differences between _in vivo_ and simulated waveforms.
+  3. Nonetheless, some marked differences between _in vivo_ and simulated waveforms.
 </details>
 
 Further details of the verification of this approach are provided in the [accompanying article](https://peterhcharlton.github.io/publication/simulating_pulse_waves/).
 
-## Case Study 1: Changes in Pulse Pressure Amplification with Age
+---
 
-## Case Study 2: Assessing Arterial Stiffness from the Photoplethysmogram
+# Part 2:
 
+## Case Study: Assessing Arterial Stiffness from the Photoplethysmogram
 
+---
+
+### Digital Wearable Device
+
+One of the limitations of some current techniques for assessing arterial stiffness is that they require specialist equipment and/or specialist operators. A potential alternative is to acquire pulse waves using consumer devices worn in daily life, such as smartwatches or fitness trackers (shown below).
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Max_Health_Band.jpg/640px-Max_Health_Band.jpg" caption="**A wrist-worn device which acquires pulse waves by photoplethysmography.** <br> _Source: PH Charlton, [Max-Health-Band](https://commons.wikimedia.org/wiki/Category:Files_by_Peter_H_Charlton#/media/File:Max_Health_Band.jpg), Wikimedia Commons ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))._">}}
+
+### The Photoplethysmogram (PPG)
+
+Digital wearable devices typically use photoplethysmography to acquire pulse waves:
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Photoplethysmogram_signal_components.svg/640px-Photoplethysmogram_signal_components.svg.png" caption="**Simplified origins of the photoplethysmogram (PPG) signal: arterial blood, venous blood and other tissues.** <br> _Source: PH Charlton, [Photoplethysmogram signal components](https://commons.wikimedia.org/wiki/File:Photoplethysmogram_signal_components.svg), Wikimedia Commons ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))._">}}
+
+### Changes in PPG Pulse Wave Shape
+
+Many approaches have been proposed to assess arterial stiffness from the photoplethysmogram (PPG) signal, based on the observation that the PPG pulse wave changes shape with age:
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Classes_of_photoplethysmogram_%28PPG%29_pulse_wave_shape.svg/640px-Classes_of_photoplethysmogram_%28PPG%29_pulse_wave_shape.svg.png" caption="**Classes of photoplethysmogram (PPG) pulse wave shape:** Examples of the four classes of pulse wave shape proposed by Dawber et al. Generally, the higher classes are associated with older adults. <br> _Source: PH Charlton, [Classes of photoplethysmogram (PPG) pulse wave shape](https://commons.wikimedia.org/wiki/File:Classes_of_photoplethysmogram_(PPG)_pulse_wave_shape.svg), Wikimedia Commons ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))._">}}
+
+### Assessing Arterial Stiffness
+
+Methods for assessing arterial stiffness from the PPG mostly consist of two steps (as shown below):
+1. Identifying fiducial points (left)
+2. Extracting pulse wave features (right)
+
+{{< figure src="https://journals.physiology.org/cms/10.1152/ajpheart.00218.2019/asset/images/large/zh40101929420004.jpeg" caption="**Pulse wave analysis:** Illustrated for a simulated pressure wave at the radial artery. <br> _Source: PH Charlton et al., doi: [10.1152/ajpheart.00218.2019](https://doi.org/10.1152/ajpheart.00218.2019) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))._">}}
+
+The following three indices were extracted from PPG pulse waves in this case study:
+1. Reflection Index (RI, illustrated)
+2. Stiffness Index (SI)
+3. Modified Aging Index (AGImod)
+
+These were calculated for each virtual subject, and then their correlation with the reference aortic PWV was assessed. In addition, we investigated the cardiovascular determinants of each index.
+
+### Results
+
+{{< figure src="https://journals.physiology.org/cms/10.1152/ajpheart.00218.2019/asset/images/large/zh40101929420009.jpeg" caption="The correlation of photoplethysmogram (PPG)-derived pulse wave (PW) indexes with aortic pulse wave velocity (PWV; A), and their physiological determinants (B). Data derived for all virtual subjects are shown in black, whereas red indicates data from 45-yr-old subjects. <br> _Source: PH Charlton et al., doi: [10.1152/ajpheart.00218.2019](https://doi.org/10.1152/ajpheart.00218.2019) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))._">}}
+
+Discuss:
+- Overall performance across all ages
+- Performance within an individual age group
+- Influence of not only PWV, but other CV properties (note difference in influence of 'diam')
+
+### Implications:
+1. Clinical studies should investigate performance over a small age range as well as over the entire cohort to assess the potential utility of indexes for stratifying patients
+2. Indexes can also be influenced by HR and SV, indicating that it may be beneficial to assess performance when these CV properties are varied _in vivo_.
+
+### Questions
+
+1. What would you think of using this technology to assess vascular age?
+2. How might it compare to other technologies?
+3. How could one assess the relative performance of such technologies?
+
+### Next Steps
+
+The WG3 PPG group currently has a paper under review titled:
+
+_Assessing Vascular Age from the Photoplethysmogram: A Systematic Review from VascAgeNet_
+
+---
+
+# Part 3
+
+## Case Study: Changes in Pulse Pressure Amplification with Age
+
+---
+
+### Pulse Pressure Amplification
+
+$$Pulse Pressure Amplification = \frac{brachial pulse pressure}{aortic pulse pressure}$$
+
+---
 
 ## Further Reading and Resources
 
