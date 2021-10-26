@@ -22,11 +22,11 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-# image:
-#   caption: 'P. Charlton'
-#   focal_point: ""
-#   placement: 2
-#   preview_only: true
+image:
+  caption: '**[V. Marozas](https://doi.org/10.5281/zenodo.4601547)** ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))'
+  focal_point: ""
+  placement: 1
+  preview_only: false
 
 authors:
 - admin
@@ -65,6 +65,7 @@ Cosinuss Two | ear wrap around | Y | N | Y | N | N | N | N | N | N | N | N | Y |
 Owlet Smart Sock Baby Monitor 3 | ankle sock | Y | N | Y | N | N | Y | N | N | N | N | N | N |
 AIO Sleeve 2.0 | arm sleeve | Y | N | Y | N | N | Y | Y | N | Y | Y | N | N |
 Polar OH1 Sensor | armband OR goggles | Y | N | N | N | N | N | N | Y | N | N | N | N |
+[Aktiia Bracelet](https://aktiia.com/) | wrist band | Y | N | N | N | Y | N | N | N | N | N | N | N |
 
 _Defintions: irreg. - irregular pulse detection; RR - respiratory rate; BP - blood pressure; temp - temperature._
 

@@ -37,9 +37,9 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Publisher page
-#   url: https://www.elsevier.com/books/photoplethysmography/kyriacou/978-0-12-823374-0
+links:
+- name: Preview
+  url: https://books.google.co.uk/books?id=qKk_EAAAQBAJ
 
 url_pdf: 'https://theses.eurasip.org/theses/829/continuous-respiratory-rate-monitoring-to-detect/'
 
