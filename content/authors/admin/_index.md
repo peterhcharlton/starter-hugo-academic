@@ -12,6 +12,8 @@ role: Research Fellow
 organizations:
 - name: University of Cambridge
   url: https://www.phpc.cam.ac.uk/people/pcu-group/researchers/peter-charlton/
+- name: City, University of London
+  url: https://researchcentres.city.ac.uk/biomedical-engineering
 
 # Short bio (displayed in user profile at end of posts)
 bio: Biomedical Engineer specialising in signal processing for wearables.
