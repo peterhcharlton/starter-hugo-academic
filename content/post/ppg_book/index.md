@@ -49,10 +49,10 @@ This new textbook, titled _Photoplethysmography_, is due to be published in late
 
 ## Sample Chapters
 
-The following sample chapters are available (pre-publication manuscripts):
+The following sample chapters are available:
 1. **[Photoplethysmography signal processing and synthesis](/publication/ppg_sig_proc_chapter/)**: A comprehensive overview of signal processing techniques for the photoplethysmogram signal.
 2. **[Wearable photoplethysmography devices](/publication/wearable_ppg_chapter/)**: A comprehensive overview of the state-of-the-art of wearable photoplethysmography devices.
 
 ## Link to Published Version
 
-The published version of the textbook will be made available [here](https://www.elsevier.com/books/photoplethysmography/kyriacou/978-0-12-823374-0).
+The published version of the textbook is available [here](https://www.elsevier.com/books/photoplethysmography/kyriacou/978-0-12-823374-0), and can be previewed [here](https://www.google.co.uk/books/edition/_/d8wnEAAAQBAJ?gbpv=1). (Note that some of the images in the preview version are in black and white, whereas the sample chapters above contain full colour images.)

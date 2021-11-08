@@ -64,9 +64,12 @@ projects:
 - SAFER Wearables Study
 
 ---
-
 ### Links to full text
 
-- The published version will be made available [here](https://www.elsevier.com/books/photoplethysmography/kyriacou/978-0-12-823374-0).
-- The accepted manuscript is freely available [here](/publication/wearable_ppg_chapter/Wear_PPG_Chapter_20210323.pdf).
+- **[Accepted manuscript](/publication/wearable_ppg_chapter/Wear_PPG_Chapter_20210323.pdf)**: The accepted manuscript, containing full colour images.
+- **[Google Books preview](https://www.google.co.uk/books/edition/_/d8wnEAAAQBAJ?gbpv=1)**: This version is limited as the images are in black and white.
+- **[Purchasing the book](https://www.elsevier.com/books/photoplethysmography/kyriacou/978-0-12-823374-0)**: The published version is available to purchase.
 
+### Further details of the textbook
+
+Further details of the textbook are provided [here](/post/ppg_book/), including another freely available sample chapter.
