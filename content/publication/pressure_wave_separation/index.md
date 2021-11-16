@@ -14,8 +14,8 @@ authors:
 - Phil Chowienczyk
 - Jordi Alastruey
 
-date: "2021-09-01T00:00:00Z"
-doi: ""
+date: "2021-11-15T00:00:00Z"
+doi: "10.1109/TBME.2021.3127799"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-10-10T00:00:00Z"
@@ -47,12 +47,12 @@ links:
 - name: Accepted manuscript
   url: https://kclpure.kcl.ac.uk/portal/files/162619525/New_WSA_IEEE_revision2_final.pdf
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9613783'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: **P.H. Charlton** ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))'
+  caption: 'Image credit: **[S. Vennin _et al._](https://doi.org/10.1109/TBME.2021.3127799)** ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))'
   focal_point: ""
   preview_only: false
 
@@ -64,8 +64,4 @@ image:
 projects:
 
 ---
-
-### Full text
-
-- The [accepted manuscript](https://kclpure.kcl.ac.uk/portal/files/162619525/New_WSA_IEEE_revision2_final.pdf) is now available, and the published version will be available soon.
 
