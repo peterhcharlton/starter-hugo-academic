@@ -9,16 +9,16 @@ summary: A group of European researchers investigating the use of photoplethysmo
 projects: []
 
 # Date published
-date: "2021-11-04T00:00:00Z"
+date: "2022-01-06T00:00:00Z"
 
 # Date updated
-lastmod: "2021-11-04T00:00:00Z"
+lastmod: "2022-01-06T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -50,19 +50,21 @@ This group of European researchers is investigating the use of photoplethysmogra
 ## Work to date
 
 The group have co-authored several publications, the most important of which is a review on assessing vascular age from the photoplethysmogram:
-1. Assessing Vascular Age from the Photoplethysmogram: A Review from VascAgeNet
+1. [Assessing Vascular Age from the Photoplethysmogram: A Review from VascAgeNet](/publication/vascagenet_ppg_review)
 2. [Blood Pressure Estimation Based on Photoplethysmography: Finger versus Wrist](/publication/cinc21_bp_estimation/)
 3. [Wearable photoplethysmography devices](/publication/wearable_ppg_chapter/)
 
 ## Invited Talks
 
 The following speakers have given invited talks to the group:
-- **Kevin Kotzen**: _Benchmarking Photoplethysmography Peak Detection Algorithms Using the Electrocardiogram Signal as a Reference_
-- **Birute Paliakaite**: _Blood Pressure Estimation Based on Photoplethysmography: Finger versus Wrist_
+- **Kevin Kotzen**: _Benchmarking Photoplethysmography Peak Detection Algorithms Using the Electrocardiogram Signal as a Reference_, 7 October 2021. [Accompanying paper](/publication/vascagenet_ppg_review)
+- **Birute Paliakaite**: _Blood Pressure Estimation Based on Photoplethysmography: Finger versus Wrist_, 28 October 2021. [Accompanying paper](/publication/cinc21_bp_estimation/)
+- **Wan-Hua Lin** (Shenzhen Institute of Advanced Technology, Chinese Academy of Science, China): _Investigating the physiological mechanisms of the photoplethysmogram features for blood pressure estimation_, 18 November 2021. [Accompanying paper](https://doi.org/10.1088/1361-6579/ab7d78)
+- **Philip Aston** (National Physical Laboratory, UK): 9 December 2021.
 
 ## Group Members
 
-The work of the group would not be possible without the hard work of its members, who are:
+The work of the group would not be possible without the hard work of its members, who include:
 - [Dr Peter Charlton](https://peterhcharlton.github.io/) is a Biomedical Engineer specialising in signal processing techniques for the photoplethysmogram (PPG), including estimating respiratory rate and assessing vascular age from the PPG. He presently holds a British Heart Foundation Fellowship at the University of Cambridge.
 - [Birute Paliakaite](https://scholar.google.com/citations?user=YtQF4uUAAAAJ&hl=en) is a researcher specialising in PPG signal processing and modelling, and has made key contributions on acquiring haemodynamic parameters from wearables, and detecting and modelling arrhythmias in the PPG.
 - [Dr Kristjan Pilt](https://scholar.google.com/citations?user=IJ5MsM4AAAAJ&hl=en) has developed novel techniques to assess vascular age from the PPG in his research, and has demonstrated their potential clinical utility in diabetic patients.
