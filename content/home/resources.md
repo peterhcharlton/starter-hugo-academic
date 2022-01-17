@@ -8,18 +8,17 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Resources
-subtitle: '[More Resources](./info/)'
+subtitle: '[All Resources](./info/)'
 
 ---
 
-Resources which I have used in teaching and research, including:
-## [Algorithms](/info/algorithms)
-## [Datasets](/info/datasets)
-## [Images](/info/images)
+<i class="fas fa-laptop-code"></i> [Algorithms](/info/algorithms)
 
-&nbsp;
+<i class="fas fa-database"></i> [Datasets](/info/datasets)
 
-[SEE ALL RESOURCES <i class="fas fa-angle-right"></i>](./info/)
+<i class="fas fa-images"></i> [Images](/info/images)
+
+<i class="fas fa-university"></i> [Research Project Guidelines](/info/tools/project_guidelines)

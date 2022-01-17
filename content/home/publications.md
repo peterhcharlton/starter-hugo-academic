@@ -3,11 +3,14 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+# Activate this widget? true/false
+active: false
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 40
 
 title: Publications
 subtitle: '[More publications](./publication/)'
