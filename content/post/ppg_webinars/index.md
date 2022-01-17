@@ -42,29 +42,38 @@ Photoplethysmography is widely used for physiological monitoring in clinical and
 
 ---
 
+## Mailing List
+
+Please subscribe to this mailing list if you would like to be kept informed of upcoming webinars:
+
+{{< cta cta_text="Subscribe to Mailing List" cta_link="https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PHOTOPLETHYSMOGRAPHY&A=1" cta_new_tab="true" >}}
+
+---
+
 ## Webinars
 
-### Simulating photoplethysmography signals
-_27 January 2022, 14:00 GMT ([other time zones](https://dateful.com/convert/greenwich-mean-time-gmt?t=14&d=2021-01-27))_
+### Webinar 1: Simulating photoplethysmography signals
+<i class="fas fa-desktop"></i> _27 January 2022, 14:00 GMT ([other time zones](https://dateful.com/convert/greenwich-mean-time-gmt?t=14&d=2021-01-27))_
 
 {{< cta cta_text="Book Now" cta_link="https://www.ipem.ac.uk/Conferences-Events/Upcoming-IPEM-Events/Event-Details/dateid/643" cta_new_tab="true" >}}
 
+**Overview:**
+
 Several techniques have recently been developed to simulate photoplethysmogram (PPG) signals, providing data with which to develop PPG signal processing algorithms, and providing insight into the physiological origins of the signal. This webinar will feature talks from researchers who have developed complementary techniques to simulate PPG signals. It will provide a comprehensive overview of the state-of-the-art, and highlight pressing directions for future research.
 
-Speakers include:
+**Speakers:**
 
 - **Andrius Solosenko (Kaunas University of Technology)** will present on modelling photoplethysmogram signals during atrial fibrillation.
 - **Cheng Ding (Emory University)** will present a novel approach to simulating PPG signals using generative adversarial networks.
 - **Dr James May (City, University of London)** will present on _in vitro_ simulation of photoplethysmography signals.
 - **Dr Jordi Alastruey-Arimon (King's College London)** will present on the role of in silico pulse wave databases in machine learning-based pulse wave analysis.
 
----
+### Webinar 2: Photoplethysmography signal quality
+<i class="fas fa-desktop"></i> _February / March 2022_
 
-## Mailing List
+**Overview:**
 
-If you would like to be kept informed of upcoming webinars, then please subscribe to this mailing list:
-
-{{< cta cta_text="Subscribe to Mailing List" cta_link="https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PHOTOPLETHYSMOGRAPHY&A=1" cta_new_tab="true" >}}
+The photoplethysmogram (PPG) signal contains a wealth of information. However, the PPG is highly susceptible to noise, which can corrupt the information in the signal. Consequently, much research has focused on assessing PPG signal quality and reducing motion artifact. This webinar will feature talks from researchers in the field of PPG signal quality, providing an overview of current work in the field and future research directions.
 
 ---
 
