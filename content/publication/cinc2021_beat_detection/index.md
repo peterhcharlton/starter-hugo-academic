@@ -11,7 +11,7 @@ authors:
 - Joachim A. Behar
 
 date: "2021-09-01T00:00:00Z"
-doi: ""
+doi: "10.23919/CinC53138.2021.9662889"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -43,7 +43,7 @@ links:
 - name: Preprint
   url: https://www.cinc.org/2021/Program/accepted/88_Preprint.pdf
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662889'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -58,11 +58,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- SAFER Wearables
+- PPG Beat Detection
 
 ---
-
-### Full text
-
-- The published version will be available soon.
 
