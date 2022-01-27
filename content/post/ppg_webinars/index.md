@@ -70,21 +70,21 @@ Several techniques have recently been developed to simulate photoplethysmogram (
 - **Dr James May (City, University of London)** will present on _in vitro_ simulation of photoplethysmography signals.
 - **Dr Jordi Alastruey-Arimon (King's College London)** will present on the role of in silico pulse wave databases in machine learning-based pulse wave analysis.
 
-### Webinar 2: Developments in Photoplethysmography
-<i class="fas fa-desktop"></i> _February / March 2022_
+### Webinar 2: Recent Advances in Photoplethysmography
+<i class="fas fa-desktop"></i> _3 March 2022, 14:00 GMT ([other time zones](https://dateful.com/convert/greenwich-mean-time-gmt?t=14&d=2021-03-03))_
 
 <i class="fas fa-user-tie"></i>  Hosted by _[Physiological Measurement](https://iopscience.iop.org/journal/0967-3334)_
 
 **Overview:**
 
-Photoplethysmography is a non-invasive, optical measurement technique which is widely used for health monitoring. Much research focuses on how to leverage the wealth of information in the photoplethysmogram (PPG) signal, and how to use this information to inform clinical decisions. This webinar will feature talks from leaders in the field, on topics ranging from using photoplethysmography for cardiovascular risk assessment, cuff-less blood pressure monitoring, and validating these technologies for clinical use. It will provide insight into the state-of-the-art and key directions for future research.
+Photoplethysmography is a non-invasive, optical measurement technique which is widely used for health monitoring. Much research focuses on how to leverage the wealth of information in the photoplethysmogram (PPG) signal, and how to use this information to inform clinical decisions. This webinar will feature talks from leaders in the field, on topics ranging from using photoplethysmography for cardiovascular risk assessment, for cuff-less blood pressure monitoring, and validating these technologies for clinical use. It will provide insight into the state-of-the-art and key directions for future research.
 
 **Speakers:**
 
-- **Ramakrishna Mukkamala (University of Pittsburgh)**
-- **Rich Fletcher (Massachusetts Institute of Technology)**, author of _'[The use of multi-site photoplethysmography (PPG) as a screening tool for coronary arterial disease and atherosclerosis](https://doi.org/10.1088/1361-6579/abad48)'_ which was recently published in Physiological Measurement.
+- **Rich Fletcher (Massachusetts Institute of Technology)** will present on _'[The use of multi-site photoplethysmography (PPG) as a screening tool for coronary arterial disease and atherosclerosis](https://doi.org/10.1088/1361-6579/abad48)'_, which was recently published in _Physiological Measurement_.
 - **Raquel Bail&oacute;n Luesma, (University of Zaragoza)**
-- **Xiaoman Xing (Suzhou Institute of Biomedical Engineering and Technology)**, author of _'[Blood pressure assessment with in-ear photoplethysmography](https://doi.org/10.1088/1361-6579/ac2a71)'_ which was recently published in Physiological Measurement.
+- **Ramakrishna Mukkamala (University of Pittsburgh)** will present on _[Evaluation of Cuffless Blood Pressure Measurement Devices: Challenges and Proposals](https://doi.org/10.1161/HYPERTENSIONAHA.121.17747)_, highlighting work which was recently published in _Hypertension_.
+- **Xiaoman Xing (Suzhou Institute of Biomedical Engineering and Technology)** will present on _'[Blood pressure assessment with in-ear photoplethysmography](https://doi.org/10.1088/1361-6579/ac2a71)'_, which was recently published in _Physiological Measurement_.
 
 ### Webinar 3: Photoplethysmography signal quality
 <i class="fas fa-desktop"></i> _March 2022_
