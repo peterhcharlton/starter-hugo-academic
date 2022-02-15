@@ -126,6 +126,24 @@ draft = false
    Completed 2021
    
    Topic: Determining the characteristics of atrial fibrillation and noise in hand-held single-lead ECGs
+
+- **Medical Student Project**, _University of Cambridge_ 
+
+   Completed 2022
+   
+   Topic: Characterising RR-intervals in atrial fibrillation and normal sinus rhythm
+   
+- **Medical Student Project**, _University of Cambridge_ 
+
+   Ongoing
+   
+   Topic: Using wearables to monitor respiratory rate during exercise
+   
+- **Medical Student Project**, _University of Cambridge_ 
+
+   Ongoing
+   
+   Topic: Inter-rater reliability of atrial fibrillation diagnosis from single-lead ECGs
    
 _NB: Names are only provided when they are in the public domain._
    

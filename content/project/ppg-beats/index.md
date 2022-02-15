@@ -23,6 +23,8 @@ url_code: "https://github.com/peterhcharlton/ppg-beat-detection"
 
 ---
 
-The aim of this project is to provide a high-performance algorithm to detect heartbeats in photoplethysmogram (PPG) signals.
+The aim of this project is to develop a high-performance algorithm to detect heartbeats in photoplethysmogram (PPG) signals.
+
+The PPG beat detectors used in this project are being made openly available [here](https://ppg-beats.readthedocs.io/).
 
 _These pages are under development_

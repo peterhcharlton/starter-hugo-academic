@@ -53,6 +53,7 @@ The group have co-authored several publications, the most important of which is 
 1. [Assessing Vascular Age from the Photoplethysmogram: A Review from VascAgeNet](/publication/vascagenet_ppg_review)
 2. [Blood Pressure Estimation Based on Photoplethysmography: Finger versus Wrist](/publication/cinc21_bp_estimation/)
 3. [Wearable photoplethysmography devices](/publication/wearable_ppg_chapter/)
+4. [Wearable photoplethysmography for cardiovascular monitoring](/publication/wearable_ppg_review)
 
 ## Invited Talks
 
