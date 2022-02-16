@@ -57,6 +57,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - RRest
+- RR wearables
 
 ---
 
