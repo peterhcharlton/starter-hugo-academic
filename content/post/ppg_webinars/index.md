@@ -66,7 +66,7 @@ Photoplethysmography is a non-invasive, optical measurement technique which is w
 **Speakers:**
 
 - **Rich Fletcher (Massachusetts Institute of Technology)** will present on _'[The use of multi-site photoplethysmography (PPG) as a screening tool for coronary arterial disease and atherosclerosis](https://doi.org/10.1088/1361-6579/abad48)'_, which was recently published in _Physiological Measurement_.
-- **Raquel Bail&oacute;n Luesma, (University of Zaragoza)**
+- **Raquel Bail&oacute;n Luesma, (University of Zaragoza)** will present on _'Applications of PPG waveform decomposition analysis'_.
 - **Ramakrishna Mukkamala (University of Pittsburgh)** will present on _[Evaluation of Cuffless Blood Pressure Measurement Devices: Challenges and Proposals](https://doi.org/10.1161/HYPERTENSIONAHA.121.17747)_, highlighting work which was recently published in _Hypertension_.
 - **Xiaoman Xing (Suzhou Institute of Biomedical Engineering and Technology)** will present on _'[Blood pressure assessment with in-ear photoplethysmography](https://doi.org/10.1088/1361-6579/ac2a71)'_, which was recently published in _Physiological Measurement_.
 

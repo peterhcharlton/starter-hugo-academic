@@ -41,8 +41,7 @@ url_video: "https://www.youtube.com/watch?v=C3JPImVkouc"
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- wearables
-- RRest
+- RR wearables
 ---
 
 <!-- {{% callout note %}} -->

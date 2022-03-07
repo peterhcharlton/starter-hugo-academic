@@ -5,7 +5,7 @@ event: Seminar
 
 location: Department of Public Health and Primary Care, University of Cambridge
 
-summary: An introduction to the 'Respiratory rate algorithms for wearables' project. 
+summary: The state-of-the-art and future for consumer devices in clinical assessment 
 abstract: In this talk I provided an introduction to consumer devices, summarising their history, form factors and functionality. I then described potential clinical applications of consumer devices, including identifying atrial fibrillation, respiratory monitoring, and assessing vascular age. Finally, I outlined directions for future research to realise the potential of consumer devices for clinical assessment.
 
 
@@ -41,5 +41,5 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 projects:
 - SAFER Wearables Study
-- RRest
+- understanding ppg
 ---

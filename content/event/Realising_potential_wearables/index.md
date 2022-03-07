@@ -4,7 +4,7 @@ title: Realising the potential of wearables for health monitoring
 event: Sensor Technologies in Healthcare
 event_url: https://www.city.ac.uk/news-and-events/events/2021/03/stem-in-healthcare-sensor-technologies-in-healthcare
 
-location: Webinar
+location: Webinar hosted by City, University of London
 
 summary: A presentation on realising the potential of consumer wearables for health monitoring.
 abstract: "The presentation considers: (i) The development of wearables from the 1960s onwards; (ii) Potential clinical applications of wearables, including detecting atrial fibrillation and tracking infectious disease; and (iii) Next steps to ensure wearables can be used to inform clinical decisions both safely and robustly."
@@ -40,9 +40,7 @@ url_video: "https://www.youtube.com/watch?v=wjsPpeouML4"
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- wearables
-- photoplethysmography
-- electrocardiogram
+- understanding ppg
 ---
 
 <!-- {{% callout note %}} -->
