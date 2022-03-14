@@ -36,9 +36,9 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/PeterHCharlton
-url_pdf: ""
-url_slides: ""
-url_video: ""
+url_pdf: "https://zenodo.org/record/6352972/files/2022_opportunities_PPG_video.pdf?download=1"
+url_slides: "https://doi.org/10.5281/zenodo.6352971"
+url_video: "https://youtu.be/1fQ16Cdxxto"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -55,5 +55,13 @@ slides: ""
 projects:
 - understanding ppg
 ---
+
+### Slides
+
+Slides are available [here](https://doi.org/10.5281/zenodo.6352971).
+
+### Video
+
+{{< youtube 1fQ16Cdxxto >}}
 
 

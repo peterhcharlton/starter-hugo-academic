@@ -46,7 +46,7 @@ links:
 - name: Accepted manuscript
   url: https://www.repository.cam.ac.uk/handle/1810/333731
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9733047'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
