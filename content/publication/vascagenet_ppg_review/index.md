@@ -50,15 +50,13 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Accepted Manuscript
-  url: https://journals.physiology.org/doi/pdf/10.1152/ajpheart.00392.2021
   
-# url_pdf: 'https://academic.oup.com/ehjdh/advance-article-pdf/doi/10.1093/ehjdh/ztab089/40722408/ztab089.pdf'
+url_pdf: 'https://journals.physiology.org/doi/pdf/10.1152/ajpheart.00392.2021'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '[**Charlton P.H. (CC BY 4.0)**](https://commons.wikimedia.org/wiki/File:Classes_of_photoplethysmogram_(PPG)_pulse_wave_shape.svg)'
+  caption: '[**Charlton _et al._ (CC BY 4.0)**](https://journals.physiology.org/cms/10.1152/ajpheart.00392.2021/asset/images/large/ajpheart.00392.2021_f003.jpeg)'
   focal_point: ""
   preview_only: false
 
@@ -70,3 +68,5 @@ image:
 projects:
 - vascular ageing
 ---
+
+See [here](/post/vascagenet_ppg_group/) for further details of VascAgeNet and the PPG group which conducted this work.
