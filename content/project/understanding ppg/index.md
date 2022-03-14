@@ -38,5 +38,8 @@ A set of resources to aid the beginner and expert alike in understanding photopl
 - **Respiratory rate estimation:** If you're interested in estimating respiratory rate from the PPG, then see our [review paper](/publication/rr_review/) on the topic.
 - **Vascular age:** If you're interested in assessing vascular age from the PPG, then see our [review paper](/publication/vascagenet_ppg_review/) on the topic. Includes: blood pressure estimation, assessing arterial stiffness, and identifying peripheral arterial disease. If you're interested in this topic, then you might consider joining [this working group](/post/vascagenet_ppg_group/), part of [VascAgeNet](https://vascagenet.eu/), a network for research into vascular ageing.
 
+### Clinical applications
+- **Opportunities for photoplethysmography in public health:** [This presentation](https://www.youtube.com/watch?v=1fQ16Cdxxto) provides an overview of some potential applications of photoplethysmography in Public Health.
+
 ### The latest developments in photoplethysmography
 - **Webinars:** To stay up to date with the latest developments in photoplethysmography by attending this [free webinar series](/post/ppg_webinars/).

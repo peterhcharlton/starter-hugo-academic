@@ -52,26 +52,8 @@ Please subscribe to this mailing list if you would like to be kept informed of u
 
 ## Upcoming Webinars
 
-### Recent Advances in Photoplethysmography
-<i class="fas fa-desktop"></i> _3 March 2022, 14:00 GMT ([other time zones](https://dateful.com/convert/greenwich-mean-time-gmt?t=14&d=2022-03-03))_
-
-<i class="fas fa-user-tie"></i>  Hosted by _[Physiological Measurement](https://iopscience.iop.org/journal/0967-3334)_
-
-{{< cta cta_text="Book Now" cta_link="https://register.gotowebinar.com/register/5108458986808048397" cta_new_tab="true" >}}
-
-**Overview:**
-
-Photoplethysmography is a non-invasive, optical measurement technique which is widely used for health monitoring. Much research focuses on how to leverage the wealth of information in the photoplethysmogram (PPG) signal, and how to use this information to inform clinical decisions. This webinar will feature talks from leaders in the field, on topics ranging from using photoplethysmography for cardiovascular risk assessment, for cuff-less blood pressure monitoring, and validating these technologies for clinical use. It will provide insight into the state-of-the-art and key directions for future research.
-
-**Speakers:**
-
-- **Rich Fletcher (Massachusetts Institute of Technology)** will present on _'[The use of multi-site photoplethysmography (PPG) as a screening tool for coronary arterial disease and atherosclerosis](https://doi.org/10.1088/1361-6579/abad48)'_, which was recently published in _Physiological Measurement_.
-- **Raquel Bail&oacute;n Luesma, (University of Zaragoza)** will present on _'Applications of PPG waveform decomposition analysis'_.
-- **Ramakrishna Mukkamala (University of Pittsburgh)** will present on _[Evaluation of Cuffless Blood Pressure Measurement Devices: Challenges and Proposals](https://doi.org/10.1161/HYPERTENSIONAHA.121.17747)_, highlighting work which was recently published in _Hypertension_.
-- **Xiaoman Xing (Suzhou Institute of Biomedical Engineering and Technology)** will present on _'[Blood pressure assessment with in-ear photoplethysmography](https://doi.org/10.1088/1361-6579/ac2a71)'_, which was recently published in _Physiological Measurement_.
-
 ### Clinical applications of photoplethysmography
-<i class="fas fa-desktop"></i> _24 March 2022, 14:00 GMT ([other time zones](https://dateful.com/convert/greenwich-mean-time-gmt?t=14&d=2022-03-24))_
+<i class="fas fa-desktop"></i> _28 April 2022, 14:00 British Summer Time ([other time zones](https://dateful.com/convert/british-summer-time-bst?t=14&d=2022-04-28))_
 
 <i class="fas fa-user-tie"></i> Hosted by the _[Institute of Physics and Engineering in Medicine](https://www.ipem.ac.uk/)_
 
@@ -85,14 +67,19 @@ This webinar will highlight emerging clinical applications of photoplethysmograp
 - **Panicos Kyriacou (City University of London)** will present on _Non-invasive optical monitoring of Intracranial Pressure in Traumatic Brain Injury patients_.
 - **Daniel Kulin (E-Med4All Europe Ltd)**
 
-### Photoplethysmography signal quality
-<i class="fas fa-desktop"></i> _March 2022_
+### Photoplethysmography signal processing
+<i class="fas fa-desktop"></i> _9 June 2022, 14:00 British Summer Time ([other time zones](https://dateful.com/convert/british-summer-time-bst?t=14&d=2022-06-09))_
 
 <i class="fas fa-user-tie"></i> Hosted by the _[Institute of Physics and Engineering in Medicine](https://www.ipem.ac.uk/)_
 
 **Overview:**
 
-The photoplethysmogram (PPG) signal contains a wealth of information. However, the PPG is highly susceptible to noise, which can corrupt the information in the signal. Consequently, much research has focused on assessing PPG signal quality and reducing motion artifact. This webinar will feature talks from researchers in the field of PPG signal quality, providing an overview of current work in the field and future research directions.
+The photoplethysmogram (PPG) signal contains a wealth of information. However, there are several challenges to extracting physiological measurements from the PPG. Firstly, the PPG is highly susceptible to noise, which can corrupt the information in the signal. Consequently, much research has focused on assessing PPG signal quality and reducing motion artifact. Secondly, the PPG is often only indirectly affected by the physiology of interest, making it a challenge to extract physiological measurements such as blood pressure. This webinar will feature talks from researchers in the field of PPG signal processing, providing an overview of current work in the field and future research directions.
+
+**Speakers:**
+
+- **Xiaorong Ding (University of Electronic Science and Technology of China)**
+- **Serena Zanelli (Paris Sorbonne Nord University)**
 
 ---
 
@@ -116,6 +103,29 @@ Several techniques have recently been developed to simulate photoplethysmogram (
 - **Dr Jordi Alastruey-Arimon (King's College London)** presented on the role of _in silico_ pulse wave databases in machine learning-based pulse wave analysis.
 
 {{< /spoiler >}}
+
+{{< spoiler text="**Webinar 2: Recent Advances in Photoplethysmography**" >}}
+### Webinar 2: Recent Advances in Photoplethysmography
+
+<i class="fas fa-desktop"></i> _3 March 2022, 14:00 GMT ([other time zones](https://dateful.com/convert/greenwich-mean-time-gmt?t=14&d=2022-03-03))_
+
+<i class="fas fa-user-tie"></i>  Hosted by _[Physiological Measurement](https://iopscience.iop.org/journal/0967-3334)_
+
+{{< cta cta_text="Watch Again" cta_link="https://register.gotowebinar.com/register/5108458986808048397" cta_new_tab="true" >}}
+
+**Overview:**
+
+Photoplethysmography is a non-invasive, optical measurement technique which is widely used for health monitoring. Much research focuses on how to leverage the wealth of information in the photoplethysmogram (PPG) signal, and how to use this information to inform clinical decisions. This webinar will feature talks from leaders in the field, on topics ranging from using photoplethysmography for cardiovascular risk assessment, for cuff-less blood pressure monitoring, and validating these technologies for clinical use. It will provide insight into the state-of-the-art and key directions for future research.
+
+**Speakers:**
+
+- **Rich Fletcher (Massachusetts Institute of Technology)** presented on _'[The use of multi-site photoplethysmography (PPG) as a screening tool for coronary arterial disease and atherosclerosis](https://doi.org/10.1088/1361-6579/abad48)'_, which was recently published in _Physiological Measurement_.
+- **Raquel Bail&oacute;n Luesma, (University of Zaragoza)** presented on _'Applications of PPG waveform decomposition analysis'_.
+- **Ramakrishna Mukkamala (University of Pittsburgh)** presented on _[Evaluation of Cuffless Blood Pressure Measurement Devices: Challenges and Proposals](https://doi.org/10.1161/HYPERTENSIONAHA.121.17747)_, highlighting work which was recently published in _Hypertension_.
+- **Xiaoman Xing (Suzhou Institute of Biomedical Engineering and Technology)** presented on _'[Blood pressure assessment with in-ear photoplethysmography](https://doi.org/10.1088/1361-6579/ac2a71)'_, which was recently published in _Physiological Measurement_.
+
+{{< /spoiler >}}
+
 
 ---
 
