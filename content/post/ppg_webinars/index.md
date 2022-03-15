@@ -79,7 +79,7 @@ The photoplethysmogram (PPG) signal contains a wealth of information. However, t
 **Speakers:**
 
 - **Xiaorong Ding (University of Electronic Science and Technology of China)**
-- **Serena Zanelli (Paris Sorbonne Nord University)**
+- **Serena Zanelli (Paris Sorbonne Nord University)** will present on _Deep learning approach to detect signal quality from clinical to non-clinical PPG devices_ ([accompanying paper](https://doi.org/10.1109/EMBC46164.2021.9629640)).
 
 ---
 
