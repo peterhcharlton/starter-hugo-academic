@@ -18,6 +18,14 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image: 
+  caption: 'Image credit: [**P. Charlton**](https://doi.org/10.5281/zenodo.4616717) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))'
+  focal_point: ""
+  placement: 1
+  preview_only: false
+
 authors: [admin]
 tags: [wearables, cardiovascular monitoring]
 
