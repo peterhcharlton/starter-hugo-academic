@@ -49,6 +49,18 @@ draft = false
    
    Topic: Signal processing techniques for smart wearables
 
+- **MEng Project**, _University of Cambridge_ 
+
+   Ongoing
+   
+   Topic: Assessing and enhancing ECG signal quality
+
+- **MEng Project**, _University of Cambridge_ 
+
+   Ongoing
+   
+   Topic: Identifying atrial fibrillation in ECGs
+
 ## Undergraduate Students
 
 - **BEng Project**, _King's College London_ 
@@ -135,15 +147,15 @@ draft = false
    
 - **Medical Student Project**, _University of Cambridge_ 
 
-   Ongoing
+   Completed 2022
    
-   Topic: Using wearables to monitor respiratory rate during exercise
+   Topic: Factors influencing inter-rater reliability of atrial fibrillation diagnosis from single-lead ECGs
    
 - **Medical Student Project**, _University of Cambridge_ 
 
    Ongoing
    
-   Topic: Inter-rater reliability of atrial fibrillation diagnosis from single-lead ECGs
+   Topic: Using wearables to monitor respiratory rate during exercise
    
 _NB: Names are only provided when they are in the public domain._
    

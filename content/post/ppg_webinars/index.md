@@ -1,12 +1,12 @@
 ---
-title: Developments in Photoplethysmography
+title: Webinars on Photoplethysmography
 subtitle: A webinar series exploring the latest developments in the field of photoplethysmography.
 
 # Summary for listings and search engines
 summary: Developments in Photoplethysmography - webinar series exploring the latest developments in the field of photoplethysmography.
 
 # Link this post with a project
-projects: [Photoplethysmography]
+projects: [understanding ppg]
 
 # Date published
 date: "2021-12-17T00:00:00Z"
@@ -18,7 +18,7 @@ lastmod: "2022-02-01T00:00:00Z"
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -57,6 +57,8 @@ Please subscribe to this mailing list if you would like to be kept informed of u
 
 <i class="fas fa-user-tie"></i> Hosted by the _[Institute of Physics and Engineering in Medicine](https://www.ipem.ac.uk/)_
 
+{{< cta cta_text="Book now" cta_link="https://www.ipem.ac.uk/what-s-on/ipem-events/webinar-clinical-applications-of-photoplethysmography/" cta_new_tab="true" >}}
+
 **Overview:**
 
 This webinar will highlight emerging clinical applications of photoplethysmography. Photoplethysmography has traditionally been used in pulse oximeters for oxygen saturation and heart rate monitoring. Recently, several additional clinical applications have been proposed, ranging from screening newborn infants for critical congenital heart disease, to sleep apnea assessment, to identifying atrial fibrillation in everyday life. This webinar will feature talks from researchers who are pushing the boundaries of photoplethysmography, developing approaches to use it to enhance healthcare in a range of settings.
@@ -65,7 +67,7 @@ This webinar will highlight emerging clinical applications of photoplethysmograp
 
 - **John Allen (Coventry University)** will present on _Further explorations in photoplethysmography for the detection of occlusive peripheral arterial disease_.
 - **Panicos Kyriacou (City University of London)** will present on _Non-invasive optical monitoring of Intracranial Pressure in Traumatic Brain Injury patients_.
-- **Daniel Kulin (E-Med4All Europe Ltd)**
+- **Daniel Kulin (E-Med4All Europe Ltd)** will present on _Opportunities of photoplethysmography-based pulsewave analysis in long-COVID syndrome - a pediatric case study_.
 
 ### Photoplethysmography signal processing
 <i class="fas fa-desktop"></i> _9 June 2022, 14:00 British Summer Time ([other time zones](https://dateful.com/convert/british-summer-time-bst?t=14&d=2022-06-09))_
@@ -78,8 +80,17 @@ The photoplethysmogram (PPG) signal contains a wealth of information. However, t
 
 **Speakers:**
 
-- **Xiaorong Ding (University of Electronic Science and Technology of China)**
+- **Xiaorong Ding (University of Electronic Science and Technology of China)** will present on _Exploiting Photoplethysmogram Features for Cuffless Blood Pressure Estimation_
 - **Serena Zanelli (Paris Sorbonne Nord University)** will present on _Deep learning approach to detect signal quality from clinical to non-clinical PPG devices_ ([accompanying paper](https://doi.org/10.1109/EMBC46164.2021.9629640)).
+
+### Developments in Photoplethysmography
+<i class="fas fa-desktop"></i> _7 July 2022, 14:00 British Summer Time ([other time zones](https://dateful.com/convert/british-summer-time-bst?t=14&d=2022-07-07))_
+
+<i class="fas fa-user-tie"></i> Hosted by the _[Institute of Physics and Engineering in Medicine](https://www.ipem.ac.uk/)_
+
+**Speakers:**
+
+- **Elisa Mejia-Mejia (City, University of London)**
 
 ---
 

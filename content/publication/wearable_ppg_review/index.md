@@ -43,8 +43,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Accepted manuscript
-  url: https://www.repository.cam.ac.uk/handle/1810/333731
+- name: Supplementary Material
+  url: https://ieeexplore.ieee.org/ielx7/5/9733001/9733047/supp1-3149785.pdf?arnumber=9733047
 
 url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9733047'
 
