@@ -62,6 +62,7 @@ image:
 projects:
 - RRest
 - SAFER Wearables Study
+- understanding ppg
 
 ---
 ### Links to full text

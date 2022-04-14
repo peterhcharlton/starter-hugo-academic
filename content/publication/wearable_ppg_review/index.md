@@ -64,5 +64,6 @@ projects:
 - RR wearables
 - SAFER wearables
 - ppg-beats
+- understanding ppg
 
 ---
