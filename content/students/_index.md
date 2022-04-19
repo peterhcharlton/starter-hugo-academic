@@ -127,11 +127,13 @@ draft = false
 
    - [Screening for atrial fibrillation: Improving efficiency of manual review of handheld electrocardiograms][9]
 
-- **Medical Student Project**, _University of Cambridge_ 
+- **Mary Adeniji**, _University of Cambridge_ 
 
    Completed 2021
    
-   Topic: Improving the efficiency of atrial fibrillation screening using handheld ECG recorders
+   Related Publications:
+
+   - [Prioritising Electrocardiograms for Manual Review to Improve the Efficiency of Atrial Fibrillation Screening][10]
 
 - **Individual Project**, _University of Cambridge_ 
 
@@ -168,3 +170,4 @@ _NB: Names are only provided when they are in the public domain._
 [7]: https://doi.org/10.3390/ecsa-5-05746
 [8]: https://doi.org/10.3390/ecsa-5-05742
 [9]: https://doi.org/10.3390/ecsa-7-08195
+[10]: /publication/prioritising_ecgs/

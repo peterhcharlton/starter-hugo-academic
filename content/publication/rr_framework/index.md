@@ -58,6 +58,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Respiratory rate algorithms for wearables
+- RR wearables
 ---
 

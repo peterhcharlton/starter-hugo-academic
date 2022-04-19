@@ -24,11 +24,10 @@ featured: false
 draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Source: **P.H. Charlton**, [Continuous respiratory rate monitoring...](/publication/cont_resp_monitoring/) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))'
+  focal_point: ""
   preview_only: false
 
 # Projects (optional).
@@ -36,7 +35,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [RR wearables]
 publishDate: '2022-01-12T22:36:42.084890Z'
 publication_types:
 - '2'
