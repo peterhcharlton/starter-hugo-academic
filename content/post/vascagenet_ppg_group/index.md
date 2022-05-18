@@ -49,19 +49,38 @@ This group of European researchers is investigating the use of photoplethysmogra
 
 ## Work to date
 
-The group have co-authored several publications, the most important of which is a review on assessing vascular age from the photoplethysmogram:
-1. [Assessing Vascular Age from the Photoplethysmogram: A Review from VascAgeNet](/publication/vascagenet_ppg_review)
-2. [Blood Pressure Estimation Based on Photoplethysmography: Finger versus Wrist](/publication/cinc21_bp_estimation/)
-3. [Wearable photoplethysmography devices](/publication/wearable_ppg_chapter/)
-4. [Wearable photoplethysmography for cardiovascular monitoring](/publication/wearable_ppg_review)
+The group have co-authored several publications:
+
+### Group papers
+
+- [Assessing hemodynamics from the photoplethysmogram to gain insights into vascular age: A review from VascAgeNet](/publication/vascagenet_ppg_review): _A review of techniques to assess vascular age from the photoplethysmogram. Co-authored by 16 researchers from 11 countries._
+- [Establishing best practices in photoplethysmography signal acquisition and processing](/publication/best_practices_ppg/): _An editorial on whether it would be possible and beneficial to establish best practices for photoplethysmography signal acquisition and processing. Co-authored by 3 group members._
+
+### Collaborative research
+
+- [Blood Pressure Estimation Based on Photoplethysmography: Finger versus Wrist](/publication/cinc2021_bp_estimation/): _Comparing blood pressure estimates obtained from finger and wrist sensors._
+
+### Collaborative reviews
+
+- [Wearable photoplethysmography devices](/publication/wearable_ppg_chapter/): _A comprehensive overview of the state-of-the-art of wearable photoplethysmography devices._
+- [Wearable photoplethysmography for cardiovascular monitoring](/publication/wearable_ppg_review): _A review of wearable photoplethysmgoraphy, considering the technology, signal processing, and clinical applications._
 
 ## Invited Talks
 
-The following speakers have given invited talks to the group:
+The following speakers gave invited talks to the group in 2021:
 - **Kevin Kotzen**: _Benchmarking Photoplethysmography Peak Detection Algorithms Using the Electrocardiogram Signal as a Reference_, 7 October 2021. [Accompanying paper](/publication/vascagenet_ppg_review)
 - **Birute Paliakaite**: _Blood Pressure Estimation Based on Photoplethysmography: Finger versus Wrist_, 28 October 2021. [Accompanying paper](/publication/cinc21_bp_estimation/)
 - **Wan-Hua Lin** (Shenzhen Institute of Advanced Technology, Chinese Academy of Science, China): _Investigating the physiological mechanisms of the photoplethysmogram features for blood pressure estimation_, 18 November 2021. [Accompanying paper](https://doi.org/10.1088/1361-6579/ab7d78)
 - **Philip Aston** (National Physical Laboratory, UK): 9 December 2021.
+
+In 2022 group members have given talks in a [public webinar series on Photoplethysmography](/post/ppg_webinars/), including:
+- **John Allen**: presented on _Further explorations in photoplethysmography for the detection of occlusive peripheral arterial disease_.
+- **Panicos Kyriacou**: presented on _Non-invasive optical monitoring of Intracranial Pressure in Traumatic Brain Injury patients_.
+- **Serena Zanelli**: will present on _Deep learning approach to detect signal quality from clinical to non-clinical PPG devices_. [Accompanying paper](https://doi.org/10.1109/EMBC46164.2021.9629640)
+
+## Short-Term Scientific Mission
+
+Dr Peter Charlton spent 5 days at Kaunas University of Technology (KTU), hosted by Prof Vaidotas Marozas, Director of the Institute of Biomedical Engineering. During this STSM, Vaidotas, Peter and Birute Paliakaite worked with colleagues at KTU towards harmonising photoplethysmography-based techniques for the assessment of vascular ageing. This was funded by [VascAgeNet](https://vascagenet.eu/short-term-scientific-missions).
 
 ## Group Members
 

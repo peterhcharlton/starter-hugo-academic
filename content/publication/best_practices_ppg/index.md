@@ -10,7 +10,7 @@ authors:
 - Panicos Kyriacou
 
 date: "2022-04-27T00:00:00Z"
-doi: ""
+doi: "10.1088/1361-6579/ac6cc4"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -41,7 +41,7 @@ links:
 - name: Accepted manuscript
   url: https://www.repository.cam.ac.uk/handle/1810/336485
 
-url_pdf: ''
+url_pdf: 'https://iopscience.iop.org/article/10.1088/1361-6579/ac6cc4/pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

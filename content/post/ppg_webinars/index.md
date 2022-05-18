@@ -71,10 +71,15 @@ The photoplethysmogram (PPG) signal contains a wealth of information. However, t
 
 <i class="fas fa-user-tie"></i> Hosted by the _[Institute of Physics and Engineering in Medicine](https://www.ipem.ac.uk/)_
 
+**Overview:**
+
+Photoplethysmography is an optical sensing technique that is widely used in clinical and consumer devices. It is a highly active area of research, with many important developments being made each year. In this webinar leaders in the field will present their latest research. Topics include extracting measurements of pulse rate variability from the photoplethysmogram (PPG) for applications such as stress monitoring, and using phantoms to investigate the origins of the PPG and develop new PPG sensing technologies.
+
 **Speakers:**
 
 - **James May (City, University of London)** will present on _Phantoms for In Vitro Investigations of PPG and PPG technology Development_.
-- **Elisa Mejia-Mejia (City, University of London)** will present on _Pulse rate variability_.
+- **Elisa Mejia-Mejia (City, University of London)** will present on _Photoplethysmography-based pulse rate variability: standardisation of the technique using simulated signals_.
+- **James Anibal (University of Oxford)** will present on _Attention methods for longer PPG sequences_.
 
 ---
 
