@@ -155,7 +155,7 @@ draft = false
    
 - **Medical Student Project**, _University of Cambridge_ 
 
-   Ongoing
+   Completed 2022
    
    Topic: Using wearables to monitor respiratory rate during exercise
    
