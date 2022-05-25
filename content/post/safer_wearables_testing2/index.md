@@ -6,7 +6,7 @@ subtitle: Testing wearables for the SAFER Wearables Study
 summary: Testing wearable devices for the SAFER Wearables Study - a study investigating the performance and acceptability of wearables for atrial fibrillation screening.
 
 # Link this post with a project
-projects: [Safer Wearables]
+projects: [SAFER wearables]
 
 # Date published
 date: "2021-11-05T00:00:00Z"

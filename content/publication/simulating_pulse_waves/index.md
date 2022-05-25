@@ -61,6 +61,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - PWDB
+- vascular ageing
 
 ---
 

@@ -6,7 +6,7 @@ subtitle: An award from the Institute of Physics and Engineering in Medicine, fo
 summary: Peter Charlton was awarded the 2021 Academic Early Career Award from the Institute of Physics and Engineering in Medicine.
 
 # Link this post with a project
-projects: []
+projects: [RR wearables]
 
 # Date published
 date: "2021-08-16T00:00:00Z"

@@ -6,7 +6,7 @@ subtitle: A summary of the functionality of selected digital wearable devices.
 summary: A summary of the functionality of selected digital wearable devices.
 
 # Link this post with a project
-projects: []
+projects: [SAFER wearables, RR wearables]
 
 # Date published
 date: "2021-08-26T00:00:00Z"

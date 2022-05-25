@@ -6,7 +6,7 @@ subtitle: A collaborative visit to Kaunas Institute of Technology, aiming to har
 summary: A collaborative visit to Kaunas Institute of Technology, aiming to harmonise photoplethysmography-based techniques for the assessment of vascular ageing
 
 # Link this post with a project
-projects: [screening af, RR wearables]
+projects: [screening af, SAFER wearables, RR wearables, vascular ageing]
 
 # Date published
 date: "2022-05-25T00:00:00Z"

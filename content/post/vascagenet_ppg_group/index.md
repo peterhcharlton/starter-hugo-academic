@@ -6,7 +6,8 @@ subtitle: A group of European researchers investigating the use of photoplethysm
 summary: A group of European researchers investigating the use of photoplethysmography to assess vascular age, within the VascAgeNet network.
 
 # Link this post with a project
-projects: []
+projects:
+- vascular ageing
 
 # Date published
 date: "2022-01-06T00:00:00Z"

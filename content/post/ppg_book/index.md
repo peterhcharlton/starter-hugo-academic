@@ -6,7 +6,7 @@ subtitle: A new textbook on the theory, principles, and technology of photopleth
 summary: Photoplethysmography - a new textbook on the theory, principles, and technology of photoplethysmography (including sample chapters).
 
 # Link this post with a project
-projects: [Safer Wearables, RRest]
+projects: [safer wearables, RR wearables]
 
 # Date published
 date: "2021-08-10T00:00:00Z"

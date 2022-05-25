@@ -6,7 +6,7 @@ subtitle: Making research on respiratory rate estimation reproducible.
 summary: A short piece on the progress of the RRest project towards making its research entirely reproducible.
 
 # Link this post with a project
-projects: [RRest]
+projects: [RR wearables]
 
 # Date published
 date: "2016-05-11T00:00:00Z"
