@@ -12,7 +12,7 @@ projects: [understanding ppg]
 date: "2021-12-17T00:00:00Z"
 
 # Date updated
-lastmod: "2022-04-29T00:00:00Z"
+lastmod: "2022-06-06T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -52,20 +52,6 @@ Please subscribe to this mailing list if you would like to be kept informed of u
 
 ## Upcoming Webinars
 
-### Photoplethysmography signal processing
-<i class="fas fa-desktop"></i> _9 June 2022, 14:00 British Summer Time ([other time zones](https://dateful.com/convert/british-summer-time-bst?t=14&d=2022-06-09))_
-
-<i class="fas fa-user-tie"></i> Hosted by the _[Institute of Physics and Engineering in Medicine](https://www.ipem.ac.uk/)_
-
-**Overview:**
-
-The photoplethysmogram (PPG) signal contains a wealth of information. However, there are several challenges to extracting physiological measurements from the PPG. Firstly, the PPG is highly susceptible to noise, which can corrupt the information in the signal. Consequently, much research has focused on assessing PPG signal quality and reducing motion artifact. Secondly, the PPG is often only indirectly affected by the physiology of interest, making it a challenge to extract physiological measurements such as blood pressure. This webinar will feature talks from researchers in the field of PPG signal processing, providing an overview of current work in the field and future research directions.
-
-**Speakers:**
-
-- **Xiaorong Ding (University of Electronic Science and Technology of China)** will present on _Exploiting Photoplethysmogram Features for Cuffless Blood Pressure Estimation_.
-- **Serena Zanelli (Paris Sorbonne Nord University)** will present on _Deep learning approach to detect signal quality from clinical to non-clinical PPG devices_ ([accompanying paper](https://doi.org/10.1109/EMBC46164.2021.9629640)).
-
 ### Developments in Photoplethysmography
 <i class="fas fa-desktop"></i> _7 July 2022, 14:00 British Summer Time ([other time zones](https://dateful.com/convert/british-summer-time-bst?t=14&d=2022-07-07))_
 
@@ -80,6 +66,22 @@ Photoplethysmography is an optical sensing technique that is widely used in clin
 - **James May (City, University of London)** will present on _Phantoms for In Vitro Investigations of PPG and PPG technology Development_.
 - **Elisa Mejia-Mejia (City, University of London)** will present on _Photoplethysmography-based pulse rate variability: standardisation of the technique using simulated signals_.
 - **James Anibal (University of Oxford)** will present on _Attention methods for longer PPG sequences_.
+
+
+### Photoplethysmography signal processing
+<i class="fas fa-desktop"></i> _15 September 2022, 14:00 British Summer Time ([other time zones](https://dateful.com/convert/british-summer-time-bst?t=14&d=2022-06-09))_
+
+<i class="fas fa-user-tie"></i> Hosted by the _[Institute of Physics and Engineering in Medicine](https://www.ipem.ac.uk/)_
+
+**Overview:**
+
+The photoplethysmogram (PPG) signal contains a wealth of information. However, there are several challenges to extracting physiological measurements from the PPG. Firstly, the PPG is highly susceptible to noise, which can corrupt the information in the signal. Consequently, much research has focused on assessing PPG signal quality and reducing motion artifact. Secondly, the PPG is often only indirectly affected by the physiology of interest, making it a challenge to extract physiological measurements such as blood pressure. This webinar will feature talks from researchers in the field of PPG signal processing, providing an overview of current work in the field and future research directions.
+
+**Speakers:**
+
+- **Xiaorong Ding (University of Electronic Science and Technology of China)** will present on _Exploiting Photoplethysmogram Features for Cuffless Blood Pressure Estimation_.
+- **Serena Zanelli (Paris Sorbonne Nord University)** will present on _Deep learning approach to detect signal quality from clinical to non-clinical PPG devices_ ([accompanying paper](https://doi.org/10.1109/EMBC46164.2021.9629640)).
+
 
 ---
 
