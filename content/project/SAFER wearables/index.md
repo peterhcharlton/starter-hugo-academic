@@ -13,7 +13,7 @@ date: "2021-01-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
+  caption:
   focal_point: Smart
 
 links:
@@ -58,7 +58,7 @@ Participants will be asked to wear three devices for seven days: Two wristbands 
 
 ## Further Information
 
-Further information on the study can be found [here](https://clinicaltrials.gov/ct2/show/NCT04715555).
+Further information on the study can be found at ClinicalTrials.gov ([NCT04715555](https://clinicaltrials.gov/ct2/show/NCT04715555)).
 {{< /spoiler >}}
 
 {{< spoiler text="**Study Planning**" >}}
@@ -75,6 +75,7 @@ Details of equipment testing are provided in the following posts:
 - [Testing wearables - Part 1](/post/safer_wearables_testing)
 - [Testing wearables - Part 2](/post/safer_wearables_testing2)
 
+Equipment testing is ongoing.
 
 ## Standard Operating Procedures (SOPs)
 
@@ -85,38 +86,12 @@ SOPs providing fine detail on the practicalities of carrying out the study are a
 {{< spoiler text="**Study Methodology**" >}}
 # Study Methodology
 
+## Ethics Approval
+
+Details of the ethical approvals for the study are available [here](/info/safer_wearables/details/approvals).
+
 ## Documentation
 
-Study documentation will be made available in the future.
+Study documentation will be made openly available in an online repository in the future.
 
 {{< /spoiler >}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
