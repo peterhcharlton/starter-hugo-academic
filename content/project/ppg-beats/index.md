@@ -19,7 +19,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/PeterHCharlton
-url_code: "https://github.com/peterhcharlton/ppg-beat-detection"
+url_code: "https://ppg-beats.readthedocs.io/"
 
 ---
 

@@ -12,13 +12,13 @@ projects: [screening af]
 date: "2022-05-25T00:00:00Z"
 
 # Date updated
-lastmod: "2022-05-25T00:00:00Z"
+lastmod: "2022-06-24T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
 
 # Show this page in the Featured widget?
-featured: true
+featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -40,12 +40,10 @@ categories:
 
 ## PhD Funding
 
-Peter Charlton and his colleagues have received funding for a PhD studentship on the topic of:
-
-_[Using Artificial Intelligence to Enhance Screening for Atrial Fibrillation](https://www.jobs.cam.ac.uk/job/34803/)_
+Peter Charlton and his colleagues have received funding for a PhD studentship on the topic of 'Using Artificial Intelligence to Enhance Screening for Atrial Fibrillation'.
 
 The student will have opportunity to develop a clinical decision support tool to aid ECG interpretation for use in AF screening studies. They will develop valuable skills in both engineering and clinical domains, supervised by researchers in clinical and engineering disciplines.
 
 ## Further details
 
-For further details of the PhD, see the [advert](https://www.jobs.cam.ac.uk/job/34803/), and contact Peter Charlton with any informal enquiries.
+The closing date has now passed for applications.

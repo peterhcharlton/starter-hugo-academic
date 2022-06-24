@@ -12,7 +12,7 @@ projects: [understanding ppg]
 date: "2021-12-17T00:00:00Z"
 
 # Date updated
-lastmod: "2022-06-06T00:00:00Z"
+lastmod: "2022-06-24T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -56,6 +56,8 @@ Please subscribe to this mailing list if you would like to be kept informed of u
 <i class="fas fa-desktop"></i> _7 July 2022, 14:00 British Summer Time ([other time zones](https://dateful.com/convert/british-summer-time-bst?t=14&d=2022-07-07))_
 
 <i class="fas fa-user-tie"></i> Hosted by the _[Institute of Physics and Engineering in Medicine](https://www.ipem.ac.uk/)_
+
+{{< cta cta_text="Book now" cta_link="https://www.ipem.ac.uk/what-s-on/ipem-events/webinar-developments-in-photoplethysmography/" cta_new_tab="true" >}}
 
 **Overview:**
 
