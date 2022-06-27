@@ -27,7 +27,7 @@ links:
 In this project we are using signal processing and machine learning techniques to develop strategies to screen for atrial fibrillation (AF) which are both effective (ensuring patients with AF are correctly identified), and cost-effective (minimising the clinical workload involved in screening).
 
 A commonly used approach to screen for AF consists of asking subjects to use a handheld electrocardiogram (ECG) recorder to record a single-lead ECG for 30 seconds. Typically, they are asked to do this several times a day for several weeks, so that even infrequent paroxysmal AF episodes can be identified. This approach is being used in the [SAFER Trial](https://www.safer.phpc.cam.ac.uk/).
-   {{< figure src="zenicor_ecg.jpeg" caption="**Zenicor-EKG device**: A handheld device for recording single-lead ECGs ([source](https://zenicor.com/press-material/)).">}}
+   {{< figure src=/publication/reviewing_ecgs/featured.png caption="**Zenicor-EKG device and recorded ECGs**: A handheld device for recording single-lead ECGs. _Source: [Pandiaraja M. _et al._](https://doi.org/10.3390/ecsa-7-08195), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)_">}}
    
 Alternative approaches to screen for AF using wearables are being explored in the [SAFER Wearables Study](/project/safer-wearables).
 
@@ -51,7 +51,7 @@ Work is ongoing towards the following objectives:
 
 _Objective:_ To determine how best to select which ECGs should be clinically reviewed, using existing ECG analysis algorithms and novel approaches.
 
-_Progress:_ To date, we have published on the potential benefits of excluding low quality ECGs from the review process in [this publication](/publication/reviewing_ecgs/). Work is ongoing to assess how best to use existing ECG analysis algorithms to select which ECGs to review, aiming to send as few ECGs for review as possible (to minimise reviewing workload) whilst maintaining a high sensitivity to ECGs exhibiting AF. We are also comparing the characteristics of ECGs in AF and normal sinus rhythm to understand how an algorithm could best discriminate between these two states.
+_Progress:_ To date, we have published on the potential benefits of excluding low quality ECGs from the review process in [this publication](/publication/reviewing_ecgs/). Work is ongoing to determine how best to select which ECGs out of the remainder to send for review. We are currently assessing how best to use existing ECG analysis algorithms to select which ECGs to review, aiming to send as few ECGs for review as possible (to minimise reviewing workload) whilst maintaining a high sensitivity to ECGs exhibiting AF. We are also comparing the characteristics of ECGs in AF and normal sinus rhythm to understand how algorithms could best discriminate between these two states.
 
 ### 2. Prioritising ECGs for review
 
@@ -67,9 +67,9 @@ _Progress:_ This will be a key task in [this PhD](/post/wd_armstrong_funding/). 
 
 ### 4. Optimising the manual review process
 
-_Objective:_
+_Objective:_ To optimise the process for manually reviewing ECGs.
 
-_Progress:_ Different approaches for manually reviewing ECGs were investigated in [this publication](/publication/reviewing_ecgs/), including the impact on workload of sending ECGs for review by one or two cardiologists. Ongoing work is further investigating the benefits and disadvantages of sending ECGs for review by multiple cardiologists. We are aiming to develop tools to help train reviewers of single-lead ECGs.
+_Progress:_ Different approaches for manually reviewing ECGs were investigated in [this publication](/publication/reviewing_ecgs/), including the impact on workload of sending ECGs for review by one or two cardiologists. Ongoing work is further investigating the benefits and disadvantages of sending ECGs for review by multiple cardiologists. We are also aiming to develop tools to help train new reviewers of single-lead ECGs.
 
 
 
