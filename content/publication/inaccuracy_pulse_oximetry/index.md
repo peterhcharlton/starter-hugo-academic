@@ -41,6 +41,13 @@ links:
   
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0007091222001349/pdfft?md5=45d50f55012a6a8877b7e84568df573b&pid=1-s2.0-S0007091222001349-main.pdf'
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: **[S. Bellini](https://commons.wikimedia.org/wiki/File:Pulox_Pulse_Oximeter.JPG)** ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))'
+  focal_point: ""
+  preview_only: false
+
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

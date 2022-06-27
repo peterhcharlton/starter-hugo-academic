@@ -37,6 +37,8 @@ Atrial fibrillation (AF) is an irregular heart rhythm which causes a five-fold i
 
 Recently, wearable devices have been developed which could be useful for identifying AF. Several devices can monitor heart activity in daily life, including wristbands, smart watches and chest patch monitors. The aim of this study is to assess the acceptability and performance of wearables for use in AF screening in older adults.
 
+{{< figure src="/post/safer_wearables_testing/featured.png" caption="**Wearable devices**: A range of wearable devices could potentially be used in AF screening.">}}
+
 ## Aim
 
 The primary objective is to determine the feasibility of measuring inter-beat-intervals using a wristband.
