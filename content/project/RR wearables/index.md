@@ -5,7 +5,7 @@ tags:
 - wearables
 - photoplethysmography
 - respiratory rate
-date: "2022-04-19T00:00:00Z"
+date: "2022-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,6 +29,8 @@ url_video: "https://www.youtube.com/watch?v=C3JPImVkouc"
 
 The aim of the Respiratory Rate Estimation project is to develop and assess methods for automated respiratory rate (RR) monitoring. It consists of a series of studies of different algorithms for RR estimation from clinical data, complimented by the provision of publicly available datasets and resources.
 
+[This video](https://www.youtube.com/watch?v=C3JPImVkouc) provides an introduction to the project.
+
 ## Background
 
 Respiratory rate is a widely used indicator of health, used by clinicians in conjunction with other parameters to assess the health of patients in hospitals, clinics, and the community. For instance, all acutely-ill hospital patients have their respiratory rate measured every few hours to facilitate early detection of clinical deteriorations (deteriorations in health). However, respiratory rate is usually measured manually, by counting the number of breaths a patient takes in a specific period of time, such as a minute. This can potentially be time-consuming and inaccurate.
@@ -38,7 +40,8 @@ An alternative solution could be provided by developing an automated, electronic
 ## Methods
 
 ### Understanding the state-of-the-art
-A [literature review](/publication/rr_review/) was conducted to understand the state-of-the-art on algorithms to estimate RR from the ECG and PPG. Briefly, we found that RR algorithms had been described in over 196 publications. We also found that previous studies assessing algorithm performance focused mostly on developing novel algorithms, rather than comparing algorithms. In addition, we found that the majority of previous studies of algorithm performance used data from young adults and healthy subjects, rather than assessing performance in our target setting of older, unhealthy adults.
+
+A [literature review](/publication/rr_review/) was conducted to understand the state-of-the-art on algorithms to estimate RR from the ECG and PPG. Briefly, we found that RR algorithms had been described in over 196 publications. We also found that previous studies assessing algorithm performance focused mostly on developing novel algorithms, rather than comparing algorithms. In addition, we found that the majority of previous studies of algorithm performance used data from young adults and healthy subjects, rather than assessing performance in our target setting of older, unhealthy adults.
 
 This helped refine our research questions:
 1. How well do respiratory rate algorithms perform in the target setting?
@@ -51,7 +54,9 @@ We implemented many of the RR algorithms described in the literature (which are 
 
 ### Assessment
 
-The performance of RR algorithms was assessed on healthy volunteers in [this publication](/publication/rr_algs_assessment/), and on hospital patients in [this publication](/publication/cont_resp_monitoring/). Briefly, we found a wide variation in the performance of algorithms. Even the best algorithms can produce large errors, which would be clinically significant when compared to the normal RR range of 12-20 bpm.
+The performance of RR algorithms was assessed on young, healthy volunteers in [this publication](/publication/rr_algs_assessment/), and on hospital patients in [this publication](/publication/cont_resp_monitoring/). Briefly, we found a wide variation in the performance of algorithms. Even the best algorithms can produce large errors, which would be clinically significant when compared to the normal RR range of 12-20 bpm.
+
+In [this publication](/publication/resp_sig_extraction/) we investigated technical and physiological factors which influence the performance of algorithms. This allowed us to provide recommendations on how to monitor RR using wearables.
 
 The potential clinical utility of algorithms for detecting acute deteriorations in ambulatory hospital patients was assessed in [this publication](/publication/cont_resp_monitoring/).
 
@@ -64,15 +69,11 @@ In the future, we would like to:
 
 ## Results
 
-Please see the publications below for results arising from the project.
-
-## Introductory Video
-
-[This video](https://www.youtube.com/watch?v=C3JPImVkouc) provides an introduction to the project.
+Please see the publications below for results arising from the project. In addition, [this video](https://www.youtube.com/watch?v=qlt80ne0t-A) provides an overview of the work conducted to date.
 
 ## Toolbox of RR Algorithms
 
-Research into respiratory rate algorithms has been hindered by a lack of open-source algorithms. Consequently, one aim of this project is to provide open-source algorithms to facilitate future research. As stated in the licence accompanying the source code, the algorithms are not intended to be fit for any purpose. Instead, they act as an platform from which researchers can develop algorithms.
+Research into respiratory rate algorithms has been hindered by a lack of open-source algorithms. Consequently, one aim of this project is to provide open-source algorithms to facilitate future research. As stated in the licence accompanying the source code, the algorithms are not intended to be fit for any purpose. Instead, they act as a platform from which researchers can develop algorithms.
 
 The following resources are provided:
 - [Algorithm Source Code](https://github.com/peterhcharlton/RRest/archive/master.zip): The latest version of the toolbox of algorithms.
