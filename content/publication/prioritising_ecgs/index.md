@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.17863/CAM.83423'
+url_pdf: '/publication/prioritising_ecgs/sorting_ecgs_EMBC_2022_accepted.pdf'
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -57,3 +57,7 @@ url_pdf: 'https://doi.org/10.17863/CAM.83423'
 projects: [screening af]
 
 ---
+
+## Link to full text
+
+- **[Accepted manuscript](/publication/prioritising_ecgs/sorting_ecgs_EMBC_2022_accepted.pdf)**: The accepted version of the manuscript, freely available.

@@ -12,7 +12,7 @@ projects: [ppg-beats, understanding ppg]
 date: "2022-03-15T00:00:00Z"
 
 # Date updated
-date: "2022-03-15T00:00:00Z"
+date: "2022-07-18T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -69,6 +69,7 @@ SOMNIA Database | [ref](https://doi.org/10.1136/bmjopen-2019-030996) | 100s (gro
 [Non-invasive BP Estimation](https://www.kaggle.com/mkachuee/noninvasivebp) | [ref](https://doi.org/10.1109/TIM.2017.2745081) | 26 | ECG, BP, PCG | Finger recordings from healthy adults.  | 
 [gyro-acc-ppg Dataset](https://github.com/hooseok/gyro_acc_ppg) | [ref](https://doi.org/10.1109/JSEN.2018.2879970) | 24 | ECG, accel, gyro | Wrist recordings from healthy subjects during an exercise protocol lasting 12 minutes.  | 
 [Pulse Transit Time PPG Dataset](https://doi.org/10.13026/g3me-rt62) | [ref](https://doi.org/10.13026/g3me-rt62) | 22 | ECG, multiwavelength PPG | Finger recordings from healthy subjects during sitting, walking and running.  | 
+[Welltory-PPG-dataset](https://github.com/Welltory/welltory-ppg-dataset) | [ref](https://doi.org/10.3390/s21206798) | 21 | RR intervals | Smartphone recordings acquired from the index finger in contact with the camera.  | 
 [Wearable and Clinical Devices Dataset](https://doi.org/10.21979/N9/42BBFA) | [ref](https://doi.org/10.3390/s20236778) | 18 | ECG, resp, accel, EDA | Wrist PPG recordings acquired for 5 mins at rest, and 5mins whilst walking on spot.  | 
 [PPG-DaLiA Data Set](https://archive.ics.uci.edu/ml/datasets/PPG-DaLiA) | [ref](https://doi.org/10.3390/s19143079) | 15 | ECG, resp, accel, EDA | Recordings acquired for $\approx$ 2.5 hours during a protocol of daily living activities.  | 
 [WESAD Data Set](https://archive.ics.uci.edu/ml/datasets/WESAD+\%28Wearable+Stress+and+Affect+Detection\%29) | [ref](https://doi.org/10.1145/3242969.3242985) | 15 | ECG, resp, accel, others | Recordings acquired in a $\approx$ 2 hour protocol designed to amuse, stress, and relax.  |
