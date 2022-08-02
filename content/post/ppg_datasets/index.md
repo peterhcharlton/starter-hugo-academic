@@ -12,7 +12,7 @@ projects: [ppg-beats, understanding ppg]
 date: "2022-03-15T00:00:00Z"
 
 # Date updated
-date: "2022-07-18T00:00:00Z"
+date: "2022-08-02T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -52,6 +52,7 @@ This table provides a list of publicly available datasets containing photoplethy
 [MIMIC Critical Care Database](https://mimic.physionet.org/) | [ref](https://doi.org/10.1038/sdata.2016.35) | 10,000s (growing) | ECG, BP, resp, others | Recordings from critically-ill adults and neonates, lasting from minutes to days. Typically at finger.  | 
 [VitalDB](https://vitaldb.net/) | [ref](https://doi.org/10.1038/s41598-018-20062-4) | 6,153 | ECG, BP, resp, others | Finger PPG recordings from patients during operations.  | 
 [MESA Dataset](https://sleepdata.org/datasets/mesa) | [ref](https://doi.org/10.5665/sleep.4732) | 2,056 | ECG, resp, others | Finger PPG recordings from adults undergoing polysomnography.  | 
+[MIMIC PERform Training and Testing](https://doi.org/10.5281/zenodo.6807402) | [ref](https://doi.org/10.1088/1361-6579/ac826d) | 400 | ECG, resp | Recordings from critically-ill adults and neonates, lasting 10 minutes. Typically at finger.  |  
 SOMNIA Database | [ref](https://doi.org/10.1136/bmjopen-2019-030996) | 100s (growing) | ECG, resp, others | Wrist PPG recordings from children and adults undergoing polysomnography.  | 
 [PPG-BP Database](https://doi.org/10.6084/m9.figshare.5459299) | [ref](https://doi.org/10.1038/sdata.2018.20) | 219 | - | Three finger recordings from adults aged 20-89 with and without CVD, $\approx$ 3 waves per recording.  | 
 [Sleep Disordered Breathing Database](https://doi.org/10.6084/m9.figshare.1209662.v6) | [ref](https://doi.org/10.1371/journal.pone.0112959) | 146 | - | Finger recordings lasting $\geq$ 3 hours, acquired from children referred for polysomnography.  | 
@@ -61,6 +62,7 @@ SOMNIA Database | [ref](https://doi.org/10.1136/bmjopen-2019-030996) | 100s (gro
 [BIDMC](https://doi.org/10.13026/C2208R) | [ref](https://doi.org/10.1109/TBME.2016.2613124) | 53 | ECG, BP, resp | 8-min recordings from critically-ill adults (a subset of the MIMIC-II dataset).  | 
 [CapnoBase](http://www.capnobase.org/index.php?id=857) | [ref](https://doi.org/10.1109/TBME.2013.2246160) | 42 | ECG, resp | 8-min recordings from paediatrics and adults during elective surgery and anaesthesia.  | 
 [Bed-based BCG Dataset](https://dx.doi.org/10.21227/77hc-py84) | [ref](https://www.mdpi.com/1424-8220/21/1/156) | 40 | ECG, BCG, BP | Recordings from adults whilst at rest.  | 
+[MIMIC PERform AF Dataset](https://doi.org/10.5281/zenodo.6807402) | [ref](https://doi.org/10.1088/1361-6579/ac826d) | 35 | ECG, resp | Recordings from critically-ill adults categorised as either AF (19 subjects) or normal sinus rhythm (16 subjects), lasting 10 minutes. Typically at finger.  |  
 [Real-World PPG dataset](https://doi.org/10.17632/yynb8t9x3d.2) | [ref](https://doi.org/10.17632/yynb8t9x3d.2) | 35 | - | Recordings from healthy subjects aged 10 to 74 years old: several 6-second recordings per subject.  | 
 [DEAP Database](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/index.html) | [ref](https://doi.org/10.1109/T-AFFC.2011.15) | 32 | ECG, resp, video, others | Thumb recordings from young, healthy subjects whilst watching one-minute 40 videos.  | 
 [University of Queensland Vital Signs Dataset](https://doi.org/102.100.100/6914) | [ref](https://doi.org/10.1213/ANE.0b013e318241f7c0) | 32 | ECG, resp, BP, EEG | Recordings from patients during anaesthesia, ranging from minutes to hours in duration.  | 
@@ -90,7 +92,7 @@ _Defintions: resp - respiratory signal; PCG - phonocardiogram; accel - accelerom
 
 ## Sources
 
-Original source (reproduced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)):
+Original source (adapted under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)):
 - P. H. Charlton _et al._, 'Wearable Photoplethysmography for Cardiovascular Monitoring', _Proceedings of the IEEE_, vol.110(3), pp.355-381, 2022. DOI: [10.1109/JPROC.2022.3149785](https://doi.org/10.1109/JPROC.2022.3149785)
 
 Version: 15 March 2022

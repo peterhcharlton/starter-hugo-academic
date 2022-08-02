@@ -15,8 +15,8 @@ authors:
 - Joachim Behar
 - Panicos A. Kyriacou
 
-date: "2022-07-18T00:00:00Z"
-doi: ""
+date: "2022-07-19T00:00:00Z"
+doi: "10.1088/1361-6579/ac826d"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -47,12 +47,14 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 
-url_pdf: ''
+url_pdf: 'https://iopscience.iop.org/article/10.1088/1361-6579/ac826d/pdf'
+url_code: 'https://ppg-beats.readthedocs.io/'
+url_dataset: 'https://ppg-beats.readthedocs.io/en/latest/datasets/summary/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: **P.H. Charlton et al.** ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))'
+  caption: 'Image credit: **[P.H. Charlton et al.](https://iopscience.iop.org/article/10.1088/1361-6579/ac826d)** ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))'
   focal_point: ""
   preview_only: false
 
@@ -66,6 +68,44 @@ projects:
 
 ---
 
+---
+
 ## Accompanying Resources
 
-The ['ppg-beats'](https://ppg-beats.readthedocs.io/) toolbox of algorithms and code was used in this study.
+This study used two key resources:
+- The [MIMIC PERform](https://ppg-beats.readthedocs.io/en/latest/datasets/summary/) datasets.
+- The ['ppg-beats'](https://ppg-beats.readthedocs.io/) toolbox of PPG beat detection algorithms and code to assess their performance.
+
+---
+
+## Reproducing the analysis
+
+The analysis reported in this study can be reproduced by following these steps:
+
+### Download the required datasets
+
+The datasets used in the study are listed on [this page](https://ppg-beats.readthedocs.io/en/latest/datasets/summary/). Download each dataset in turn by following the instructions provided on each dataset's page.
+
+### Install the PPG-beats toolbox
+
+Install the **PPG-beats** toolbox by following the instructions on [this page](https://ppg-beats.readthedocs.io/en/latest/toolbox/getting_started/).
+
+### Assess the performance of PPG beat detectors across all the datasets
+
+Use the `assess_multiple_datasets.m` script (within **PPG-beats**) to assess the performance of PPG beat detectors across all of the datasets. To do so:
+
+1. Edit the `assess_multiple_datasets.m` script:
+   - Specify the path of the Matlab file for each dataset in the `specify_path_of_dataset_file` function within the `assess_multiple_datasets.m` script.
+   - Specify the folder in which to save results figures by modifying the `up.paths.plots_root_folder` variable within the `setup_universal_params` function within the `assess_multiple_datasets.m` script.
+2. Run the `assess_multiple_datasets.m` script, which will:
+   - Analyse each dataset in turn
+   - Generate results (in the command window) and results figures (saved in the specified folder)
+
+### Generate additional figures
+
+The additional figures in the manuscript can be generated as follows:
+- **Fig. 1** (Detecting beats in the photoplethysmogram): - run the `create_ppg_beat_detection_fig.m` script.
+- **Fig. 2** (Comparing PPG-derived beats with reference beats): - run the `make_plot_of_ecg_ppg_time_alignment.m` script.
+- **Fig. 5** (PPG beat detection during different activities): - run the `make_plot_of_ppg_beat_detection_challenges.m` script.
+
+---
