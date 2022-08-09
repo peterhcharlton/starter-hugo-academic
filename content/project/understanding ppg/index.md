@@ -35,7 +35,8 @@ A set of resources to aid the beginner and expert alike in understanding photopl
 
 ### Signal processing
 - **A comprehensive overview of PPG signal processing:** Our [book chapter on photoplethysmography signal processing](/publication/ppg_sig_proc_chapter/) provides an overview of a wide range of techniques for processing the photoplethysmogram (PPG) signal.
-- **Respiratory rate estimation:** If you're interested in estimating respiratory rate from the PPG, then see our [review paper](/publication/rr_review/) on the topic.
+- **Detecting heartbeats in PPG signals:** If you're interested in detecting beats in PPG signals, then see our [project](/project/ppg-beats/) on PPG beat detection, including open-source algorithms.
+- **Respiratory rate estimation:** If you're interested in estimating respiratory rate from the PPG, then see our [review paper](/publication/rr_review/) on the topic for an introduction, and our [project](/project/rr-wearables/) on respiratory rate estimation algorithms.
 - **Vascular age:** If you're interested in assessing vascular age from the PPG, then see our [review paper](/publication/vascagenet_ppg_review/) on the topic. Includes: blood pressure estimation, assessing arterial stiffness, and identifying peripheral arterial disease. If you're interested in this topic, then you might consider joining [this working group](/post/vascagenet_ppg_group/), part of [VascAgeNet](https://vascagenet.eu/), a network for research into vascular ageing.
 
 ### Clinical applications

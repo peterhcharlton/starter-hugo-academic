@@ -97,6 +97,15 @@ Use the `assess_multiple_datasets.m` script (within **PPG-beats**) to assess the
 1. Edit the `assess_multiple_datasets.m` script:
    - Specify the path of the Matlab file for each dataset in the `specify_path_of_dataset_file` function within the `assess_multiple_datasets.m` script.
    - Specify the folder in which to save results figures by modifying the `up.paths.plots_root_folder` variable within the `setup_universal_params` function within the `assess_multiple_datasets.m` script.
+   - Specify the datasets to be analysed in the `setup_universal_params` function within the `assess_multiple_datasets.m` script:
+   ```
+   up.assessment_datasets = {'capnobase', 'bidmc', 'mimic_train_all', 'mimic_test_all', 'wesad_meditation', 'wesad_amusement', 'wesad_baseline', 'wesad_stress', 'ppg_dalia_sitting', 'ppg_dalia_working', 'ppg_dalia_cycling', 'ppg_dalia_walking', 'ppg_dalia_lunch_break', 'ppg_dalia_car_driving', 'ppg_dalia_stair_climbing', 'ppg_dalia_table_soccer'}; 
+up.comparison_datasets = {'mimic_B', 'mimic_W', 'mimic_test_a', 'mimic_test_n', 'mimic_non_af', 'mimic_af'};
+   ```
+   - Specify the beat detectors to be used in the `specify_options` function within the `assess_multiple_datasets.m` script:
+   ```
+   options.beat_detectors = {'SWT', 'ATmax', 'SPAR', 'IMS', 'AMPD', 'MSPTD', 'ABD', 'qppgfast', 'HeartPy', 'COppg', 'PPGPulses', 'ERMA', 'PWD', 'PDA', 'WFD'};
+   ```
 2. Run the `assess_multiple_datasets.m` script, which will:
    - Analyse each dataset in turn
    - Generate results (in the command window) and results figures (saved in the specified folder)

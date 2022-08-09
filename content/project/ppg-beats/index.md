@@ -36,7 +36,9 @@ The aim of this project is to identify, or develop, a high-performance algorithm
 The performance of existing PPG beat detection algorithms was assessed in different use cases, when using the algorithms with clinical monitoring data, and also wearable data. In addition, the impact of patient demographics and physiology was also assessed.
 
 ## Results
-The results are currently under review in [this publication](./publication/assess_ppg_beat_detectors).
+The results are available in detail in [this publication](./publication/assess_ppg_beat_detectors). They are summarised in the following leaderboards:
+- [PPG beat detection](https://paperswithcode.com/task/photoplethysmography-ppg-beat-detection)
+- [PPG heart rate estimation](https://paperswithcode.com/task/photoplethysmography-ppg-heart-rate)
 
 ## Resources
 The study is accompanied by the following resources, which are being made available [here](https://ppg-beats.readthedocs.io/):
@@ -45,6 +47,3 @@ The study is accompanied by the following resources, which are being made availa
     - **[Datasets](https://ppg-beats.readthedocs.io/en/latest/datasets/summary)**: several publicly available datasets containing PPG and reference electrocardiogram (ECG) signals.
     - **[Code](https://ppg-beats.readthedocs.io/en/latest/toolbox/performance_assessment)**: MATLAB code with which to assess performance.
 3. **[Tutorials](https://ppg-beats.readthedocs.io/en/latest/tutorials/summary)** on how to use the algorithms, datasets, and code.
-
-## Status
-The project is ongoing. Both this page and the accompanying resources will be updated further as the project progresses.

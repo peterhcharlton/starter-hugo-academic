@@ -12,7 +12,7 @@ projects: [understanding ppg]
 date: "2021-12-17T00:00:00Z"
 
 # Date updated
-lastmod: "2022-06-24T00:00:00Z"
+lastmod: "2022-08-02T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -52,28 +52,12 @@ Please subscribe to this mailing list if you would like to be kept informed of u
 
 ## Upcoming Webinars
 
-### Developments in Photoplethysmography
-<i class="fas fa-desktop"></i> _7 July 2022, 14:00 British Summer Time ([other time zones](https://dateful.com/convert/british-summer-time-bst?t=14&d=2022-07-07))_
-
-<i class="fas fa-user-tie"></i> Hosted by the _[Institute of Physics and Engineering in Medicine](https://www.ipem.ac.uk/)_
-
-{{< cta cta_text="Book now" cta_link="https://www.ipem.ac.uk/what-s-on/ipem-events/webinar-developments-in-photoplethysmography/" cta_new_tab="true" >}}
-
-**Overview:**
-
-Photoplethysmography is an optical sensing technique that is widely used in clinical and consumer devices. It is a highly active area of research, with many important developments being made each year. In this webinar leaders in the field will present their latest research. Topics include extracting measurements of pulse rate variability from the photoplethysmogram (PPG) for applications such as stress monitoring, and using phantoms to investigate the origins of the PPG and develop new PPG sensing technologies.
-
-**Speakers:**
-
-- **James May (City, University of London)** will present on _Phantoms for In Vitro Investigations of PPG and PPG technology Development_.
-- **Elisa Mejia-Mejia (City, University of London)** will present on _Photoplethysmography-based pulse rate variability: standardisation of the technique using simulated signals_.
-- **James Anibal (University of Oxford)** will present on _Attention methods for longer PPG sequences_.
-
-
 ### Photoplethysmography signal processing
 <i class="fas fa-desktop"></i> _15 September 2022, 14:00 British Summer Time ([other time zones](https://dateful.com/convert/british-summer-time-bst?t=14&d=2022-06-09))_
 
 <i class="fas fa-user-tie"></i> Hosted by the _[Institute of Physics and Engineering in Medicine](https://www.ipem.ac.uk/)_
+
+{{< cta cta_text="Book now" cta_link="https://www.ipem.ac.uk/what-s-on/ipem-events/webinar-photoplethysmography-signal-processing/" cta_new_tab="true" >}}
 
 **Overview:**
 
@@ -82,7 +66,7 @@ The photoplethysmogram (PPG) signal contains a wealth of information. However, t
 **Speakers:**
 
 - **Xiaorong Ding (University of Electronic Science and Technology of China)** will present on _Exploiting Photoplethysmogram Features for Cuffless Blood Pressure Estimation_.
-- **Serena Zanelli (Paris Sorbonne Nord University)** will present on _Deep learning approach to detect signal quality from clinical to non-clinical PPG devices_ ([accompanying paper](https://doi.org/10.1109/EMBC46164.2021.9629640)).
+- **Serena Zanelli (Paris Sorbonne Nord University)** will present a _Deep learning approach to detect signal quality from clinical to non-clinical PPG devices_ ([accompanying paper](https://doi.org/10.1109/EMBC46164.2021.9629640)).
 
 
 ---
@@ -137,8 +121,6 @@ Photoplethysmography is a non-invasive, optical measurement technique which is w
 
 <i class="fas fa-user-tie"></i> Hosted by the _[Institute of Physics and Engineering in Medicine](https://www.ipem.ac.uk/)_
 
-{{< cta cta_text="Book now" cta_link="https://www.ipem.ac.uk/what-s-on/ipem-events/webinar-clinical-applications-of-photoplethysmography/" cta_new_tab="true" >}}
-
 **Overview:**
 
 This webinar highlighted emerging clinical applications of photoplethysmography. Photoplethysmography has traditionally been used in pulse oximeters for oxygen saturation and heart rate monitoring. Recently, several additional clinical applications have been proposed, ranging from screening newborn infants for critical congenital heart disease, to sleep apnea assessment, to identifying atrial fibrillation in everyday life. This webinar featured talks from researchers who are pushing the boundaries of photoplethysmography, developing approaches to use it to enhance healthcare in a range of settings.
@@ -149,6 +131,27 @@ This webinar highlighted emerging clinical applications of photoplethysmography.
 - **Panicos Kyriacou (City University of London)** presented on _Non-invasive optical monitoring of Intracranial Pressure in Traumatic Brain Injury patients_.
 
 {{< /spoiler >}}
+
+{{< spoiler text="**Webinar 4: Developments in Photoplethysmography**" >}}
+### Developments in Photoplethysmography
+
+<i class="fas fa-desktop"></i> _7 July 2022, 14:00 British Summer Time ([other time zones](https://dateful.com/convert/british-summer-time-bst?t=14&d=2022-07-07))_
+
+<i class="fas fa-user-tie"></i> Hosted by the _[Institute of Physics and Engineering in Medicine](https://www.ipem.ac.uk/)_
+
+**Overview:**
+
+Photoplethysmography is an optical sensing technique that is widely used in clinical and consumer devices. It is a highly active area of research, with many important developments being made each year. In this webinar leaders in the field will present their latest research. Topics include extracting measurements of pulse rate variability from the photoplethysmogram (PPG) for applications such as stress monitoring, and using phantoms to investigate the origins of the PPG and develop new PPG sensing technologies.
+
+**Speakers:**
+
+- **James May (City, University of London)** presented on _Phantoms for In Vitro Investigations of PPG and PPG technology Development_.
+- **Elisa Mejia-Mejia (City, University of London)** presented on _Photoplethysmography-based pulse rate variability: standardisation of the technique using simulated signals_.
+- **James Anibal (University of Oxford)** presented on _Attention methods for longer PPG sequences_.
+
+{{< /spoiler >}}
+
+
 
 ---
 
