@@ -5,7 +5,7 @@ tags:
 - signal processing
 - photoplethysmography
 - atrial fibrillation
-date: "2022-01-18T00:00:00Z"
+date: "2022-08-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -36,7 +36,7 @@ The aim of this project is to identify, or develop, a high-performance algorithm
 The performance of existing PPG beat detection algorithms was assessed in different use cases, when using the algorithms with clinical monitoring data, and also wearable data. In addition, the impact of patient demographics and physiology was also assessed.
 
 ## Results
-The results are available in detail in [this publication](./publication/assess_ppg_beat_detectors). They are summarised in the following leaderboards:
+The results are available in detail in [this publication](/publication/assess_ppg_beat_detectors). They are summarised in the following leaderboards:
 - [PPG beat detection](https://paperswithcode.com/task/photoplethysmography-ppg-beat-detection)
 - [PPG heart rate estimation](https://paperswithcode.com/task/photoplethysmography-ppg-heart-rate)
 

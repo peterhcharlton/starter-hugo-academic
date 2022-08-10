@@ -100,7 +100,7 @@ Use the `assess_multiple_datasets.m` script (within **PPG-beats**) to assess the
    - Specify the datasets to be analysed in the `setup_universal_params` function within the `assess_multiple_datasets.m` script:
    ```
    up.assessment_datasets = {'capnobase', 'bidmc', 'mimic_train_all', 'mimic_test_all', 'wesad_meditation', 'wesad_amusement', 'wesad_baseline', 'wesad_stress', 'ppg_dalia_sitting', 'ppg_dalia_working', 'ppg_dalia_cycling', 'ppg_dalia_walking', 'ppg_dalia_lunch_break', 'ppg_dalia_car_driving', 'ppg_dalia_stair_climbing', 'ppg_dalia_table_soccer'}; 
-up.comparison_datasets = {'mimic_B', 'mimic_W', 'mimic_test_a', 'mimic_test_n', 'mimic_non_af', 'mimic_af'};
+   up.comparison_datasets = {'mimic_B', 'mimic_W', 'mimic_test_a', 'mimic_test_n', 'mimic_non_af', 'mimic_af'};
    ```
    - Specify the beat detectors to be used in the `specify_options` function within the `assess_multiple_datasets.m` script:
    ```
