@@ -48,7 +48,7 @@ This table provides a list of publicly available datasets containing photoplethy
 
 | Dataset | Ref | No. subjs | Other signals | Description |
 | --- | --- | --- | --- | --- |
-[UK Biobank](https://www.ukbiobank.ac.uk/) (Field 4205) | - | 205,357 | - | Single finger PPG waves from middle-aged subjects. |
+[UK Biobank](https://www.ukbiobank.ac.uk/) (Field 4205) | - | 205,357 | None simultaneous. BP in same visit | Single finger PPG waves from middle-aged subjects. |
 [MIMIC Critical Care Database](https://mimic.physionet.org/) | [ref](https://doi.org/10.1038/sdata.2016.35) | 10,000s (growing) | ECG, BP, resp, others | Recordings from critically-ill adults and neonates, lasting from minutes to days. Typically at finger.  | 
 [VitalDB](https://vitaldb.net/) | [ref](https://doi.org/10.1038/s41598-018-20062-4) | 6,153 | ECG, BP, resp, others | Finger PPG recordings from patients during operations.  | 
 [MESA Dataset](https://sleepdata.org/datasets/mesa) | [ref](https://doi.org/10.5665/sleep.4732) | 2,056 | ECG, resp, others | Finger PPG recordings from adults undergoing polysomnography.  | 

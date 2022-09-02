@@ -38,7 +38,7 @@ links:
   url: https://twitter.com/PeterHCharlton
 url_pdf: "https://zenodo.org/record/6826343/files/wearable_ppg_embc_2022.pdf?download=1"
 url_slides: "https://doi.org/10.5281/zenodo.6826342"
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=qnN39k26ymw"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -64,5 +64,7 @@ Wearable photoplethysmography devices, such as smartwatches and fitness bands, a
 
 Slides are available [here](https://doi.org/10.5281/zenodo.6826342).
 
+### Video
 
+{{< youtube qnN39k26ymw >}}
 

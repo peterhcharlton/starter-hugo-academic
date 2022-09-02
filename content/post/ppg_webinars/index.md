@@ -66,6 +66,7 @@ The photoplethysmogram (PPG) signal contains a wealth of information. However, t
 **Speakers:**
 
 - **Xiaorong Ding (University of Electronic Science and Technology of China)** will present on _Exploiting Photoplethysmogram Features for Cuffless Blood Pressure Estimation_.
+- **Ariane Morassi-Sasso (Hasso Plattner Institute)** will present on _Predicting blood pressure from photoplethysmography_.
 - **Serena Zanelli (Paris Sorbonne Nord University)** will present a _Deep learning approach to detect signal quality from clinical to non-clinical PPG devices_ ([accompanying paper](https://doi.org/10.1109/EMBC46164.2021.9629640)).
 
 
