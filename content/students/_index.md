@@ -51,15 +51,21 @@ draft = false
 
 - **MEng Project**, _University of Cambridge_ 
 
-   Ongoing
+   Completed 2022
    
-   Topic: Assessing and enhancing ECG signal quality
+   Topic: Automated quality assessment of self-captured ECG data
 
 - **MEng Project**, _University of Cambridge_ 
 
-   Ongoing
+   Completed 2022
    
    Topic: Identifying atrial fibrillation in ECGs
+
+- **MEng Project**, _Technical University of Munich_ 
+
+   Ongoing
+   
+   Topic: Assessment of electrocardiogram beat detectors
 
 ## Undergraduate Students
 
@@ -126,6 +132,7 @@ draft = false
    Related Publications:
 
    - [Screening for atrial fibrillation: Improving efficiency of manual review of handheld electrocardiograms][9]
+   - [Prioritising Electrocardiograms for Manual Review to Improve the Efficiency of Atrial Fibrillation Screening][10]
 
 - **Mary Adeniji**, _University of Cambridge_ 
 
