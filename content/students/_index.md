@@ -43,7 +43,7 @@ draft = false
    
    Topic: Assessing left ventricular ejection time from phonocardiography and photoplethysmography signals
 
-- **Group Project**, _King's College London_
+- **MEng Group Project**, _King's College London_
 
    Completed 2019
    
@@ -66,6 +66,45 @@ draft = false
    Ongoing
    
    Topic: Assessment of electrocardiogram beat detectors
+
+## Medical Students
+
+The following students conducted 6-week research projects under my supervision (either Student Selected Component placements, or summer internships):
+   
+- **Madhumitha Pandiaraja**, _University of Cambridge_ 
+
+   Completed 2020
+   
+   Related Publications:
+
+   - [Screening for atrial fibrillation: Improving efficiency of manual review of handheld electrocardiograms][9]
+   - [Prioritising Electrocardiograms for Manual Review to Improve the Efficiency of Atrial Fibrillation Screening][10]
+
+- **Mary Adeniji**, _University of Cambridge_ 
+
+   Completed 2021
+   
+   Related Publications:
+
+   - [Prioritising Electrocardiograms for Manual Review to Improve the Efficiency of Atrial Fibrillation Screening][10]
+
+- **Medical Student Project**, _University of Cambridge_ 
+
+   Completed 2022
+   
+   Topic: Characterising RR-intervals in atrial fibrillation and normal sinus rhythm
+   
+- **Medical Student Project**, _University of Cambridge_ 
+
+   Completed 2022
+   
+   Topic: Factors influencing inter-rater reliability of atrial fibrillation diagnosis from single-lead ECGs
+   
+- **Medical Student Project**, _University of Cambridge_ 
+
+   Completed 2022
+   
+   Topic: Using wearables to monitor respiratory rate during exercise
 
 ## Undergraduate Students
 
@@ -124,47 +163,12 @@ draft = false
    Related Publications:
 
    - [Measuring vascular recovery rate after exercise][7]
-   
-- **Madhumitha Pandiaraja**, _University of Cambridge_ 
-
-   Completed 2020
-   
-   Related Publications:
-
-   - [Screening for atrial fibrillation: Improving efficiency of manual review of handheld electrocardiograms][9]
-   - [Prioritising Electrocardiograms for Manual Review to Improve the Efficiency of Atrial Fibrillation Screening][10]
-
-- **Mary Adeniji**, _University of Cambridge_ 
-
-   Completed 2021
-   
-   Related Publications:
-
-   - [Prioritising Electrocardiograms for Manual Review to Improve the Efficiency of Atrial Fibrillation Screening][10]
 
 - **Individual Project**, _University of Cambridge_ 
 
    Completed 2021
    
    Topic: Determining the characteristics of atrial fibrillation and noise in hand-held single-lead ECGs
-
-- **Medical Student Project**, _University of Cambridge_ 
-
-   Completed 2022
-   
-   Topic: Characterising RR-intervals in atrial fibrillation and normal sinus rhythm
-   
-- **Medical Student Project**, _University of Cambridge_ 
-
-   Completed 2022
-   
-   Topic: Factors influencing inter-rater reliability of atrial fibrillation diagnosis from single-lead ECGs
-   
-- **Medical Student Project**, _University of Cambridge_ 
-
-   Completed 2022
-   
-   Topic: Using wearables to monitor respiratory rate during exercise
    
 _NB: Names are only provided when they are in the public domain._
    

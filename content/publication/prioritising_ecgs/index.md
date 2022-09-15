@@ -17,7 +17,7 @@ authors:
 - admin
 
 date: "2022-04-12T00:00:00Z"
-doi: "10.17863/CAM.83423"
+doi: "10.1109/EMBC48229.2022.9871092"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
