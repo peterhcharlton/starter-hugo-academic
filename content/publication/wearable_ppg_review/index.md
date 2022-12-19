@@ -67,3 +67,7 @@ projects:
 - understanding ppg
 
 ---
+
+# Accompanying blog post
+
+[This blog post](/post/wearables_gadgets_goldmines/) provides a brief overview of this article.

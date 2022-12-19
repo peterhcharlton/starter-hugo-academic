@@ -7,11 +7,13 @@ title: "SleepPPG-Net: a deep learning algorithm for robust sleep staging from co
 authors:
 - Kevin Kotzen
 - admin
+- Sharon Salabi
+- Lea Amar
 - Amir Landesberg
 - Joachim Behar
 
-date: "2022-02-11T00:00:00Z"
-doi: ""
+date: "2022-11-29T00:00:00Z"
+doi: "10.1109/JBHI.2022.3225363"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -20,13 +22,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: under review
-publication_short: under review
+publication: IEEE Journal of Biomedical and Health Informatics
+publication_short: IEEE JBHI
 
-abstract: 
+abstract: Sleep staging is an essential component in the diagnosis of sleep disorders and management of sleep health. Sleep is traditionally measured in a clinical setting and requires a labor-intensive labeling process. We hypothesize that it is possible to perform automated robust 4-class sleep staging using the raw photoplethysmography (PPG) time series and modern advances in deep learning (DL). We used two publicly available sleep databases that included raw PPG recordings, totalling 2,374 patients and 23,055 hours of continuous data. We developed SleepPPG-Net, a DL model for 4-class sleep staging from the raw PPG time series. SleepPPG-Net was trained end-to-end and consists of a residual convolutional network for automatic feature extraction and a temporal convolutional network to capture long-range contextual information. We benchmarked the performance of SleepPPG-Net against models based on the best-reported state-of-the-art (SOTA) algorithms. When benchmarked on a held-out test set, SleepPPG-Net obtained a median Cohen's Kappa score of 0.75 against 0.69 for the best SOTA approach. SleepPPG-Net showed good generalization performance to an external database, obtaining a Kappa score of 0.74 after transfer learning. Overall, SleepPPG-Net provides new SOTA performance. In addition, performance is high enough to open the path to the development of wearables that meet the requirements for usage in clinical applications such as the diagnosis and monitoring of obstructive sleep apnea.
 
 # Summary. An optional shortened abstract.
 summary: Sleep staging using photoplethysmography and deep learning.

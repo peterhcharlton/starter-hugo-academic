@@ -63,9 +63,9 @@ draft = false
 
 - **MEng Project**, _Technical University of Munich_ 
 
-   Ongoing
+   Completed 2022
    
-   Topic: Assessment of electrocardiogram beat detectors
+   Topic: Assessment of Electrocardiogram Beat Detectors using Synthetic and Real World Data
 
 ## Medical Students
 
