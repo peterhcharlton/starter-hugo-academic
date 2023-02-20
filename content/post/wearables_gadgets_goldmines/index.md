@@ -23,7 +23,7 @@ featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Devices under test: (from left) a mobile phone, reference ECG chest-patch, electrocardiogram (ECG)-based wristband, and photoplethysmogram (PPG)-based wristband.'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: false

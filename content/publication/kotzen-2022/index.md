@@ -46,7 +46,7 @@ links:
 - name: Submitted manuscript
   url: https://doi.org/10.48550/arXiv.2202.05735
 
-url_pdf: ''
+url_pdf: '/publication/kotzen-2022/2022_Kotzen_et_al'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
