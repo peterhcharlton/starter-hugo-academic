@@ -27,6 +27,18 @@ draft = false
    
    Topic: Fetal vascular ultrasound assessment to identify growth restriction and reduce stillbirth
 
+- DPhil Student, _University of Cambridge_ 
+
+   Ongoing
+   
+   Topic: Using artificial intelligence to enhance screening for atrial fibrillation
+   
+- DPhil Student, _University of Cambridge_ 
+
+   Ongoing
+   
+   Topic: Screening for atrial fibrillation in primary care; addressing the gaps in current evidence
+   
 ## Master's Students
 - **Diogo Tecelao**, _Nova University Lisbon_ 
 
@@ -67,6 +79,12 @@ draft = false
    
    Topic: Assessment of Electrocardiogram Beat Detectors using Synthetic and Real World Data
 
+- **MPhil Project**, _University of Cambridge_ 
+
+   Ongoing
+   
+   Topic: Reducing the Workload of Screening for Atrial Fibrillation by Optimising the ECG Reviewing Process
+
 ## Medical Students
 
 The following students conducted 6-week research projects under my supervision (either Student Selected Component placements, or summer internships):
@@ -105,6 +123,12 @@ The following students conducted 6-week research projects under my supervision (
    Completed 2022
    
    Topic: Using wearables to monitor respiratory rate during exercise
+   
+- **Medical Student Project**, _University of Cambridge_ 
+
+   Ongoing
+   
+   Topic: Comparing an automated algorithm and manual review for diagnosing atrial fibrillation from single-lead ECGs
 
 ## Undergraduate Students
 
@@ -172,6 +196,25 @@ The following students conducted 6-week research projects under my supervision (
    
 _NB: Names are only provided when they are in the public domain._
    
+
+# Examinations
+
+- **PhD Thesis and Oral Examination**, _University of Sydney, Australia_
+
+   Completed 2021
+
+- **PhD Thesis Review**, _University of Ferrara, Italy_
+
+   Completed 2022
+
+- **PhD Thesis and Oral Examination**, _EPFL: Swiss Federal Institute of Technology Lausanne, Switzerland_
+
+   Completed 2023
+
+- **PhD Thesis and Oral Examination**, _University of Southampton, UK_
+
+   Completed 2023
+
 [1]: https://kclpure.kcl.ac.uk/portal/en/theses/noninvasive-assessment-of-the-aortic-pressure-wave(2fafc44e-fccc-4a12-8a35-3cf9fd453279).html
 [2]: /publication/estimating_cbp_flow/
 [3]: /publication/simulating_pulse_waves/
