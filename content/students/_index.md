@@ -27,13 +27,13 @@ draft = false
    
    Topic: Fetal vascular ultrasound assessment to identify growth restriction and reduce stillbirth
 
-- DPhil Student, _University of Cambridge_ 
+- [**Zixuan Ding**](https://www.phpc.cam.ac.uk/people/pcu-group/pcu-students/zixuan-ding/), _University of Cambridge_ 
 
    Ongoing
    
    Topic: Using artificial intelligence to enhance screening for atrial fibrillation
    
-- DPhil Student, _University of Cambridge_ 
+- [**Dr Jenny Lund**](https://www.phpc.cam.ac.uk/people/pcu-group/pcu-students/jenny-lund/), _University of Cambridge_ 
 
    Ongoing
    
@@ -195,25 +195,7 @@ The following students conducted 6-week research projects under my supervision (
    Topic: Determining the characteristics of atrial fibrillation and noise in hand-held single-lead ECGs
    
 _NB: Names are only provided when they are in the public domain._
-   
 
-# Examinations
-
-- **PhD Thesis and Oral Examination**, _University of Sydney, Australia_
-
-   Completed 2021
-
-- **PhD Thesis Review**, _University of Ferrara, Italy_
-
-   Completed 2022
-
-- **PhD Thesis and Oral Examination**, _EPFL: Swiss Federal Institute of Technology Lausanne, Switzerland_
-
-   Completed 2023
-
-- **PhD Thesis and Oral Examination**, _University of Southampton, UK_
-
-   Completed 2023
 
 [1]: https://kclpure.kcl.ac.uk/portal/en/theses/noninvasive-assessment-of-the-aortic-pressure-wave(2fafc44e-fccc-4a12-8a35-3cf9fd453279).html
 [2]: /publication/estimating_cbp_flow/
