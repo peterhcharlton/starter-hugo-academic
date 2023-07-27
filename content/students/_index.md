@@ -5,7 +5,7 @@ draft = false
 +++
 
 ## Ph.D. Students
-- [**Jorge Mariscal Harana**](https://kclpure.kcl.ac.uk/portal/jorge.mariscal_harana.html), _King's College London_ 
+- **Jorge Mariscal Harana**, _King's College London_ 
 
    Completed 2020
    
@@ -79,6 +79,24 @@ draft = false
    
    Topic: Assessment of Electrocardiogram Beat Detectors using Synthetic and Real World Data
 
+- **MEng Project**, _University of Cambridge_ 
+
+   Completed 2023
+   
+   Topic: Atrial fibrillation classification using scalograms and CNNs
+
+- **MEng Project**, _University of Cambridge_ 
+
+   Completed 2023
+   
+   Topic: Assessing _this_ from ECGs
+
+- **MEng Project**, _University of Cambridge_ 
+
+   Completed 2023
+   
+   Topic: Applications of Deep Learning in Atrial Fibrillation Screening
+
 - **MPhil Project**, _University of Cambridge_ 
 
    Ongoing
@@ -126,7 +144,7 @@ The following students conducted 6-week research projects under my supervision (
    
 - **Medical Student Project**, _University of Cambridge_ 
 
-   Ongoing
+   Completed 2023
    
    Topic: Comparing an automated algorithm and manual review for diagnosing atrial fibrillation from single-lead ECGs
 
