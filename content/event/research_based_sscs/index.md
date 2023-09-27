@@ -37,7 +37,7 @@ links:
   url: https://twitter.com/PeterHCharlton
 url_pdf: "https://zenodo.org/record/8321579/files/20230906%20research_based_SSCs.pdf?download=1"
 url_slides: "https://zenodo.org/record/8321579/files/20230906%20research_based_SSCs.pptx?download=1"
-url_video: ""
+url_video: "https://youtu.be/pmAOZHEoBHU"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -54,6 +54,14 @@ slides: ""
 projects: []
 ---
 
+## Accompanying project guidelines
+
+The Project Guidelines I use when supervising research-based SSCs are available [here](https://peterhcharlton.github.io/project_guidelines/), including [a page on SSCs](https://peterhcharlton.github.io/project_guidelines/sscs.html) which provides more details on the items mentioned in this talk.
+
 ## Accompanying slides
 
 Download directly from [here](https://zenodo.org/record/8321579/files/20230906%20research_based_SSCs.pdf?download=1). Available on [Zenodo](https://doi.org/10.5281/zenodo.8321578). 
+
+### Video
+
+{{< youtube pmAOZHEoBHU >}}

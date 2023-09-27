@@ -45,7 +45,7 @@ url_dataset: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Charlton PH et al. (CC BY 3.0)**](https://iopscience.iop.org/article/10.1088/1361-6579/aabe6a#pmeaaabe6af02)'
+  caption: 'Image credit: [**Zanelli S et al. (CC BY 4.0)**](https://doi.org/10.3389/fphys.2023.1176753)'
   focal_point: ""
   preview_only: false
 
