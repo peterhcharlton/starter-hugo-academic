@@ -44,6 +44,10 @@ In 2023, Peter Charlton and his colleagues received the [Martin Black Prize](htt
 
 _[Detecting beats in the photoplethysmogram: benchmarking open-source algorithms](/publication/assess_ppg_beat_detectors/)_
 
+## Media coverage in Physics World
+
+The prize was covered in [this Physics World article](https://physicsworld.com/a/heartbeat-detection-in-smartwatch-signals-wins-physiological-measurement-best-paper-award/).
+
 ## Further details
 
 To find out more, see [the paper](/publication/assess_ppg_beat_detectors/), and the wider [Project](/project/ppg-beats/) in which this paper sits, developing algorithms to detect heartbeats in photoplethysmography signals.

@@ -62,6 +62,6 @@ The Project Guidelines I use when supervising research-based SSCs are available 
 
 Download directly from [here](https://zenodo.org/record/8321579/files/20230906%20research_based_SSCs.pdf?download=1). Available on [Zenodo](https://doi.org/10.5281/zenodo.8321578). 
 
-### Video
+## Video
 
 {{< youtube pmAOZHEoBHU >}}

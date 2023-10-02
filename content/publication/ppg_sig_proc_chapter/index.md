@@ -25,7 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *[Photoplethysmography](https://www.elsevier.com/books/photoplethysmography/kyriacou/978-0-12-823374-0), Elsevier (due Nov 2021)*
+publication: In *[Photoplethysmography](https://www.elsevier.com/books/photoplethysmography/kyriacou/978-0-12-823374-0), Elsevier*
 publication_short: In *Photoplethysmography*
 
 abstract: This chapter presents the fundamental signal processing techniques used to analyse the photoplethysmogram (PPG) signal. The chapter starts by providing an overview of the PPG signal, covering its physiological origins, presentation, and acquisition. Fundamental signal processing techniques are then presented, covering&#58; pre-processing techniques; analysis in the time domain; analysis in the frequency domain; the application of machine learning; and methods to estimate physiological parameters from PPG signals. Finally, the chapter provides a review of methods to synthesise PPG signals.

@@ -1,5 +1,5 @@
 ---
-title: "Wearable photoplethysmography devices"
+title: "Wearable Photoplethysmography Devices"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *[Photoplethysmography](https://www.elsevier.com/books/photoplethysmography/kyriacou/978-0-12-823374-0), Elsevier (due Nov 2021)*
+publication: In *[Photoplethysmography](https://www.elsevier.com/books/photoplethysmography/kyriacou/978-0-12-823374-0), Elsevier*
 publication_short: In *Photoplethysmography*
 
 abstract: The wearables market has expanded greatly in recent years, with wrist-worn devices now widely used. Smart wearables provide opportunity to monitor health and fitness in daily life. Wearables such as fitness bands and smartwatches routinely monitor the photoplethysmogram (PPG) signal, an optical measure of the arterial pulse wave which is strongly influenced by the heart and blood vessels. This Chapter presents a comprehensive overview of the state-of-the-art of wearable photoplethysmography devices. It summarises&#58; (i) key considerations in the design of wearable PPG devices; (ii) the physiological parameters that can be estimated from wearable PPG signals; (iii) commercially available devices; and (iv) potential applications in health and fitness monitoring.
