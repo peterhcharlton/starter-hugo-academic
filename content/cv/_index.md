@@ -18,6 +18,7 @@ draft = false
 
 | Year | Grant |
 |---|---|
+| 2023 | European Partnership on Metrology project, &#8364;2.1mill (co-applicant): _Uncertainty quantification for machine learning models applied to photoplethysmography signals_ |
 | 2022 | WD Armstrong PhD Studentship (PI): _Using Artificial Intelligence to Enhance Screening for Atrial Fibrillation_ |
 | 2021 | EPSRC Impact Acceleration Award, &pound;9.7k (PI): _Verifying algorithms to monitor respiratory rate in daily life with potential application to COVID-19_ |
 | 2020 | BHF Immediate Postdoctoral Basic Science Research Fellowship, &pound;251k (PI): _Using clinical and consumer devices to enhance screening for atrial fibrillation_ |
@@ -58,7 +59,7 @@ draft = false
 
 | Year | Activity |
 |---|---|
-| 2020 - present | Member of the Executive Editorial Board of _Physiological Measurement_ |
+| 2020 - present | Member of the [Executive Editorial Board](https://publishingsupport.iopscience.iop.org/journals/physiological-measurement/editorial-board/) of _Physiological Measurement_ |
 | 2018 - 2020 | Member of the International Advisory Board of _Physiological Measurement_ |
 | 2015 - present | Regular Peer Reviewer: see [here](https://www.webofscience.com/wos/author/record/Y-4334-2018) |
 | 2015 - 16 | Editor of a textbook on ['Secondary Analysis of Electronic Health Records'](https://doi.org/10.1007/978-3-319-43742-2), published by Springer in 2016 |

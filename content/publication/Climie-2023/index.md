@@ -56,14 +56,14 @@ tags: [vascular ageing]
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: ''
+url_pdf: 'https://academic.oup.com/eurjpc/article-pdf/30/11/1101/51201931/zwad028.pdf'
 url_code: ''
 url_dataset: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [****](#)'
+  caption: 'Image credit: [**Climie _et al._**](https://academic.oup.com/view-large/figure/414707274/zwad028f1.tif)'
   focal_point: ""
   preview_only: false
 

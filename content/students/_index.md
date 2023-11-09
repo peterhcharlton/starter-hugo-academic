@@ -33,6 +33,10 @@ draft = false
    
    Topic: Using artificial intelligence to enhance screening for atrial fibrillation
    
+   Related Publications:
+
+   - [QRS detection in single-lead, telehealth electrocardiogram signals: benchmarking open-source algorithms][11]
+   
 - [**Dr Jenny Lund**](https://www.phpc.cam.ac.uk/people/pcu-group/pcu-students/jenny-lund/), _University of Cambridge_ 
 
    Ongoing
@@ -99,7 +103,7 @@ draft = false
 
 - **MPhil Project**, _University of Cambridge_ 
 
-   Ongoing
+   Completed 2023
    
    Topic: Reducing the Workload of Screening for Atrial Fibrillation by Optimising the ECG Reviewing Process
 
@@ -124,11 +128,13 @@ The following students conducted 6-week research projects under my supervision (
 
    - [Prioritising Electrocardiograms for Manual Review to Improve the Efficiency of Atrial Fibrillation Screening][10]
 
-- **Medical Student Project**, _University of Cambridge_ 
+- **Rayo Akande**, _University of Cambridge_ 
 
    Completed 2022
    
-   Topic: Characterising RR-intervals in atrial fibrillation and normal sinus rhythm
+   Related Publications:
+
+   - [Characterising RR Intervals in Atrial Fibrillation Detected through Screening][12]
    
 - **Medical Student Project**, _University of Cambridge_ 
 
@@ -225,3 +231,5 @@ _NB: Names are only provided when they are in the public domain._
 [8]: https://doi.org/10.3390/ecsa-5-05742
 [9]: https://doi.org/10.3390/ecsa-7-08195
 [10]: /publication/prioritising_ecgs/
+[11]: /publication/assess_ecg_beat_detectors/
+[12]: /publication/akande-2023/

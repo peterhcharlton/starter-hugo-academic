@@ -38,7 +38,7 @@ tags: [photoplethysmography, pulse wave, machine learning]
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: ''
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/fphys.2023.1176753/pdf'
 url_code: ''
 url_dataset: ''
 
