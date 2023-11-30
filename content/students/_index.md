@@ -4,6 +4,7 @@ author = ['Peter H. Charlton']
 draft = false
 +++
 
+
 ## Ph.D. Students
 - **Jorge Mariscal Harana**, _King's College London_ 
 
@@ -43,6 +44,7 @@ draft = false
    
    Topic: Screening for atrial fibrillation in primary care; addressing the gaps in current evidence
    
+   
 ## Master's Students
 - **Diogo Tecelao**, _Nova University Lisbon_ 
 
@@ -81,7 +83,9 @@ draft = false
 
    Completed 2022
    
-   Topic: Assessment of Electrocardiogram Beat Detectors using Synthetic and Real World Data
+   Related Publication:
+
+   - [QRS detection in single-lead, telehealth electrocardiogram signals: benchmarking open-source algorithms][11]
 
 - **MEng Project**, _University of Cambridge_ 
 
@@ -106,6 +110,36 @@ draft = false
    Completed 2023
    
    Topic: Reducing the Workload of Screening for Atrial Fibrillation by Optimising the ECG Reviewing Process
+
+- **MEng Project**, _University of Cambridge_ 
+
+   _Ongoing_
+   
+   Topic: _TBC_
+
+- **MEng Project**, _University of Cambridge_ 
+
+   _Ongoing_
+   
+   Topic: _TBC_
+   
+- **MEng Project**, _University of Cambridge_ 
+
+   _Ongoing_
+   
+   Topic: _TBC_
+
+
+## Academic Foundation Programme Placements
+
+The following junior doctor conducted a 4-month research project under my supervision:
+
+- **AFP Placement**, _University of Cambridge_ 
+
+   _Ongoing_
+   
+   Topic: Training to acquire high-quality ECGs
+
 
 ## Medical Students
 
@@ -153,6 +187,13 @@ The following students conducted 6-week research projects under my supervision (
    Completed 2023
    
    Topic: Comparing an automated algorithm and manual review for diagnosing atrial fibrillation from single-lead ECGs
+
+- **Medical Student Project**, _University of Cambridge_ 
+
+   _Ongoing_
+   
+   Topic: Filtering ECGs
+
 
 ## Undergraduate Students
 

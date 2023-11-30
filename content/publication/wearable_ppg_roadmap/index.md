@@ -114,3 +114,12 @@ projects:
 - understanding ppg
 
 ---
+
+
+### Further reading
+
+The Roadmap itself contains plenty of reading. For a brief update on the field of wearable photoplethysmography in 2023, see [this article](http://localhost:1313/publication/charlton-2023-cinc-ppg/), which describes further developments in the field not covered in the Roadmap, and provides reflections are provided on the process of co-ordinating a Roadmap article.
+
+### Resources for co-ordinating a Roadmap article
+
+Resources used when co-ordinating the Roadmap article are available for future Roadmap co-ordinators [here](https://doi.org/10.5281/zenodo.8360151).

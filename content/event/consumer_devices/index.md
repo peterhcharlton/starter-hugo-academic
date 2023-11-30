@@ -42,5 +42,4 @@ url_video: ""
 projects:
 - SAFER Wearables Study
 - understanding ppg
-- screening af
 ---

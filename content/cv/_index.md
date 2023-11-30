@@ -34,6 +34,7 @@ draft = false
 
 | Year | Award |
 |---|---|
+| 2024 | _AJP-Heart and Circulatory Physiology_ 2024 Best Review Article Award |
 | 2023 | Martin Black Prize for the best paper published in Physiological Measurement in 2022 |
 | 2021 | Academic Early Career Award, Institute of Physics and Engineering in Medicine |
 | 2021 | IEEE Engineering in Medicine and Biology Prize Paper Award, 3rd Prize |
