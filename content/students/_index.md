@@ -6,7 +6,7 @@ draft = false
 
 
 ## Ph.D. Students
-- **Jorge Mariscal Harana**, _King's College London_ 
+- [**Jorge Mariscal Harana**](https://kclpure.kcl.ac.uk/portal/en/persons/jorge-mariscal-harana), _King's College London_ 
 
    Completed 2020
    
@@ -46,7 +46,7 @@ draft = false
    
    
 ## Master's Students
-- **Diogo Tecelao**, _Nova University Lisbon_ 
+- **Diogo Tecelao**, MSc Project, _Nova University Lisbon_ 
 
    Completed 2018
    
@@ -79,14 +79,6 @@ draft = false
    
    Topic: Identifying atrial fibrillation in ECGs
 
-- **MEng Project**, _Technical University of Munich_ 
-
-   Completed 2022
-   
-   Related Publication:
-
-   - [QRS detection in single-lead, telehealth electrocardiogram signals: benchmarking open-source algorithms][11]
-
 - **MEng Project**, _University of Cambridge_ 
 
    Completed 2023
@@ -97,7 +89,7 @@ draft = false
 
    Completed 2023
    
-   Topic: Assessing _this_ from ECGs
+   Topic: Assessing cardiac age from ECGs
 
 - **MEng Project**, _University of Cambridge_ 
 
@@ -136,7 +128,7 @@ The following junior doctor conducted a 4-month research project under my superv
 
 - **AFP Placement**, _University of Cambridge_ 
 
-   _Ongoing_
+   _Completed 2023_
    
    Topic: Training to acquire high-quality ECGs
 
@@ -145,7 +137,7 @@ The following junior doctor conducted a 4-month research project under my superv
 
 The following students conducted 6-week research projects under my supervision (either Student Selected Component placements, or summer internships):
    
-- **Madhumitha Pandiaraja**, _University of Cambridge_ 
+- **Madhumitha Pandiaraja**, Summer Internship, _University of Cambridge_ 
 
    Completed 2020
    
@@ -153,8 +145,9 @@ The following students conducted 6-week research projects under my supervision (
 
    - [Screening for atrial fibrillation: Improving efficiency of manual review of handheld electrocardiograms][9]
    - [Prioritising Electrocardiograms for Manual Review to Improve the Efficiency of Atrial Fibrillation Screening][10]
+   - [Characterising RR Intervals in Atrial Fibrillation Detected through Screening][12]
 
-- **Mary Adeniji**, _University of Cambridge_ 
+- **Mary Adeniji**, Student Selected Component placement, _University of Cambridge_ 
 
    Completed 2021
    
@@ -162,7 +155,7 @@ The following students conducted 6-week research projects under my supervision (
 
    - [Prioritising Electrocardiograms for Manual Review to Improve the Efficiency of Atrial Fibrillation Screening][10]
 
-- **Rayo Akande**, _University of Cambridge_ 
+- **Rayo Akande**, Student Selected Component placement, _University of Cambridge_ 
 
    Completed 2022
    
@@ -170,32 +163,46 @@ The following students conducted 6-week research projects under my supervision (
 
    - [Characterising RR Intervals in Atrial Fibrillation Detected through Screening][12]
    
-- **Medical Student Project**, _University of Cambridge_ 
+- **Medical Student Project**, Student Selected Component placement, _University of Cambridge_ 
 
    Completed 2022
    
    Topic: Factors influencing inter-rater reliability of atrial fibrillation diagnosis from single-lead ECGs
    
-- **Medical Student Project**, _University of Cambridge_ 
+- **Medical Student Project**, Student Selected Component placement, _University of Cambridge_ 
 
    Completed 2022
    
    Topic: Using wearables to monitor respiratory rate during exercise
    
-- **Medical Student Project**, _University of Cambridge_ 
+- **Medical Student Project**, Student Selected Component placement, _University of Cambridge_ 
 
    Completed 2023
    
    Topic: Comparing an automated algorithm and manual review for diagnosing atrial fibrillation from single-lead ECGs
 
-- **Medical Student Project**, _University of Cambridge_ 
+- **Medical Student Project**, Student Selected Component placement, _University of Cambridge_ 
 
    _Ongoing_
    
    Topic: Filtering ECGs
+   
+- **Medical Student Project**, Student Selected Component placement, _University of Cambridge_ 
+
+   _Ongoing_
+   
+   Topic: Developing algorithms for ECG quality assessment
 
 
 ## Undergraduate Students
+
+- **Florian Kristoff**, BEng Project, _Technical University of Munich_ 
+
+   Completed 2022
+   
+   Related Publication:
+
+   - [QRS detection in single-lead, telehealth electrocardiogram signals: benchmarking open-source algorithms][11]
 
 - **BEng Project**, _King's College London_ 
 
@@ -203,7 +210,7 @@ The following students conducted 6-week research projects under my supervision (
    
    Topic: Feasibility study of compliance as a common measure of cardiovascular health
 
-- **Aristide Mathieu**, _King's College London_ 
+- **Aristide Mathieu**, BEng Project, _King's College London_ 
 
    Completed 2018
    
@@ -219,19 +226,19 @@ The following students conducted 6-week research projects under my supervision (
 
 ## 6-Week Projects
 
-- **Biomedical Engineering Project**, _King's College London_ 
+- **Biomedical Engineering Project**, Summer Project, _King's College London_ 
 
    Completed 2017
    
    Topic: Analysis of _in silico_ photoplethysmography pulse waves to obtain cardiovascular parameters
 
-- **Biomedical Engineering Project**, _King's College London_ 
+- **Biomedical Engineering Project**, Summer Project, _King's College London_ 
 
    Completed 2017
    
    Topic: Identifying abdominal aortic aneurysms using pulse wave analysis: a computational study
    
-- **Antonella Pontoriero**, _King's College London_ 
+- **Antonella Pontoriero**, Summer Project, _King's College London_ 
 
    Completed 2018
    
@@ -239,13 +246,13 @@ The following students conducted 6-week research projects under my supervision (
 
    - [Alzheimer's disease: A step towards prognosis using smart wearables][8]
 
-- **Individual Project**, _King's College London_ 
+- **Individual Project**, Summer Project, _King's College London_ 
 
    Completed 2018
    
    Topic: Numerical simulation of peripheral pulse waves: the impact of inflow boundary conditions, and the feasibility of estimating aortic pulse wave features from peripheral waves
      
-- **Halil Dijab**, _King's College London_ 
+- **Halil Dijab**, LIDo Summer Research Placement, _King's College London_ 
 
    Completed 2018
    
@@ -253,7 +260,7 @@ The following students conducted 6-week research projects under my supervision (
 
    - [Measuring vascular recovery rate after exercise][7]
 
-- **Individual Project**, _University of Cambridge_ 
+- **Individual Project**, Summer Project, _University of Cambridge_ 
 
    Completed 2021
    

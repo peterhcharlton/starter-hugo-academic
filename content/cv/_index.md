@@ -69,5 +69,6 @@ draft = false
 
 | Year | Responsibility |
 |---|---|
+| 2022 - present | Organiser of the Turing Special Interest Group on [?Meta-learning for multimodal data?](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) |
 | 2022 - present | Physiological Measurement Special Interest Group Chair, [Institute of Physics and Engineering in Medicine](https://ipem.ac.uk/) |
 | 2021 - present | Working Group Vice-Leader, [VascAgeNet](https://vascagenet.eu/) |
