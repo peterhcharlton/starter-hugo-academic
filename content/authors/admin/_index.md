@@ -45,9 +45,6 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3836-8655
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/PeterHCharlton
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=BJjD81oAAAAJ&hl=en
