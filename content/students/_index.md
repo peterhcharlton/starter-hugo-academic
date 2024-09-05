@@ -110,28 +110,28 @@ draft = false
 
 - **MEng Project**, _University of Cambridge_ 
 
-   _Ongoing_
+   Completed 2024
    
-   Topic: _TBC_
+   Topic: Resource-constrained algorithms for atrial fibrillation detection
 
 - **MEng Project**, _University of Cambridge_ 
 
-   _Ongoing_
+   Completed 2024
    
-   Topic: _TBC_
+   Topic: ECG signal quality assessment
    
 - **MEng Project**, _University of Cambridge_ 
 
-   _Ongoing_
+   Completed 2024
    
-   Topic: _TBC_
+   Topic: Prioritising ECGs in atrial fibrillation screening for manual review.
 
 
 ## Academic Foundation Programme Placements
 
 The following junior doctor conducted a 4-month research project under my supervision:
 
-- **AFP Placement**, _University of Cambridge_ 
+- **Kethaki Prathivadi Bhayankaram**, _University of Cambridge_ 
 
    _Completed 2023_
    
