@@ -6,13 +6,20 @@ draft = false
 
 ## Employment
 
-
 | Year | Position |
 |---|---|
 | 2020 - present | British Heart Foundation Research Fellow. _Department of Public Health and Primary Care, University of Cambridge_ |
 | 2017 - 20 | Research Associate. _Department of Biomedical Engineering, King's College London_ |
 | 2010 - 17 | Research Assistant. _Faculty of Life Sciences and Medicine, King's College London_ |
 | 2009 | Research Assistant. _Advanced Manufacturing Research Centre, University of Sheffield_ |
+
+## Education
+
+| Year | Position |
+|---|---|
+| 2013 - 17 | PhD, _Department of Biomedical Engineering, King's College London_ |
+| 2006 - 10 | MEng, Engineering Science, _University of Oxford_ |
+
 
 ## Grants
 
@@ -51,6 +58,8 @@ draft = false
 
 | Year | Examination |
 |---|---|
+| 2024 | PhD Defense, _Dartmouth College, USA_ |
+| 2024 | PhD Defense, _University of Zaragoza, Spain_ |
 | 2023 | PhD Thesis and Oral Examination, _University of Southampton, UK_ |
 | 2023 | PhD Thesis and Oral Examination, _EPFL: Swiss Federal Institute of Technology Lausanne, Switzerland_ |
 | 2022 | PhD Thesis Review, _University of Ferrara, Italy_ |
@@ -69,6 +78,7 @@ draft = false
 
 | Year | Responsibility |
 |---|---|
+| 2024 | [2024 Computing in Cardiology Conference](https://www.cinc2024.org/) Program Committee |
 | 2022 - present | Organiser of the Turing Special Interest Group on ['Meta-learning for multimodal data'](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) |
-| 2022 - present | Physiological Measurement Special Interest Group Chair, [Institute of Physics and Engineering in Medicine](https://ipem.ac.uk/) |
-| 2021 - present | Working Group Vice-Leader, [VascAgeNet](https://vascagenet.eu/) |
+| 2022 - 2024 | Physiological Measurement Special Interest Group Chair, [Institute of Physics and Engineering in Medicine](https://ipem.ac.uk/) |
+| 2021 - 2024 | Working Group Vice-Leader of [VascAgeNet](https://vascagenet.eu/), a network funded by the European Cooperation in Science and Technology |

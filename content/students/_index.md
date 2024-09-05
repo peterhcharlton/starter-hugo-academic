@@ -22,12 +22,10 @@ draft = false
    
    Topic: Assessing photoplethysmogram-based indices for the continual detection of changes in blood pressure
    
-- [**Fatma Alimahomed**](https://www.imagingcdt.com/project/fetal-vascular-ultrasound-assessment-to-identify-growth-restriction-and-reduce-stillbirth/), _King's College London_ 
+   Related Publications:
 
-   Ongoing
+   - [Advanced waveform analysis of the photoplethysmogram signal using complementary signal processing techniques for the extraction of biomarkers of cardiovascular function][13]
    
-   Topic: Fetal vascular ultrasound assessment to identify growth restriction and reduce stillbirth
-
 - [**Zixuan Ding**](https://www.phpc.cam.ac.uk/people/pcu-group/pcu-students/zixuan-ding/), _University of Cambridge_ 
 
    Ongoing
@@ -37,7 +35,14 @@ draft = false
    Related Publications:
 
    - [QRS detection in single-lead, telehealth electrocardiogram signals: benchmarking open-source algorithms][11]
+   - [Comparing RR-Interval-Based and Whole-Signal-Based Machine Learning Models for Atrial Fibrillation Detection from Single-lead Electrocardiograms][14]
    
+- [**Fatma Alimahomed**](https://www.imagingcdt.com/project/fetal-vascular-ultrasound-assessment-to-identify-growth-restriction-and-reduce-stillbirth/), _King's College London_ 
+
+   Ongoing
+   
+   Topic: Fetal vascular ultrasound assessment to identify growth restriction and reduce stillbirth
+
 - [**Dr Jenny Lund**](https://www.phpc.cam.ac.uk/people/pcu-group/pcu-students/jenny-lund/), _University of Cambridge_ 
 
    Ongoing
@@ -130,8 +135,9 @@ The following junior doctor conducted a 4-month research project under my superv
 
    _Completed 2023_
    
-   Topic: Training to acquire high-quality ECGs
+   Related Publication:
 
+   - [Telephone training to improve ECG quality in remote screening for atrial fibrillation][15]
 
 ## Medical Students
 
@@ -146,12 +152,13 @@ The following students conducted 6-week research projects under my supervision (
    - [Screening for atrial fibrillation: Improving efficiency of manual review of handheld electrocardiograms][9]
    - [Prioritising Electrocardiograms for Manual Review to Improve the Efficiency of Atrial Fibrillation Screening][10]
    - [Characterising RR Intervals in Atrial Fibrillation Detected through Screening][12]
+   - [Reliability of single-lead electrocardiogram interpretation to detect atrial fibrillation: insights from the SAFER Feasibility Study][16]
 
 - **Mary Adeniji**, Student Selected Component placement, _University of Cambridge_ 
 
    Completed 2021
    
-   Related Publications:
+   Related Publication:
 
    - [Prioritising Electrocardiograms for Manual Review to Improve the Efficiency of Atrial Fibrillation Screening][10]
 
@@ -163,11 +170,15 @@ The following students conducted 6-week research projects under my supervision (
 
    - [Characterising RR Intervals in Atrial Fibrillation Detected through Screening][12]
    
-- **Medical Student Project**, Student Selected Component placement, _University of Cambridge_ 
+- **Katie Hibbitt**, Student Selected Component placement, _University of Cambridge_ 
 
    Completed 2022
    
    Topic: Factors influencing inter-rater reliability of atrial fibrillation diagnosis from single-lead ECGs
+   
+   Related Publication:
+   
+   - [Reliability of single-lead electrocardiogram interpretation to detect atrial fibrillation: insights from the SAFER Feasibility Study][16]
    
 - **Medical Student Project**, Student Selected Component placement, _University of Cambridge_ 
 
@@ -183,15 +194,17 @@ The following students conducted 6-week research projects under my supervision (
 
 - **Medical Student Project**, Student Selected Component placement, _University of Cambridge_ 
 
-   _Ongoing_
+   Completed 2024
    
    Topic: Filtering ECGs
    
-- **Medical Student Project**, Student Selected Component placement, _University of Cambridge_ 
+- **Sharon Ho**, Student Selected Component placement, _University of Cambridge_ 
 
-   _Ongoing_
+   Completed 2024
    
-   Topic: Developing algorithms for ECG quality assessment
+   Related Publication:
+   
+   - [Automated RR Interval Detection and Quality Assessment in Telehealth Electrocardiograms][17]
 
 
 ## Undergraduate Students
@@ -203,6 +216,7 @@ The following students conducted 6-week research projects under my supervision (
    Related Publication:
 
    - [QRS detection in single-lead, telehealth electrocardiogram signals: benchmarking open-source algorithms][11]
+   - [Automated RR Interval Detection and Quality Assessment in Telehealth Electrocardiograms][17]
 
 - **BEng Project**, _King's College London_ 
 
@@ -281,3 +295,8 @@ _NB: Names are only provided when they are in the public domain._
 [10]: /publication/prioritising_ecgs/
 [11]: /publication/assess_ecg_beat_detectors/
 [12]: /publication/akande-2023/
+[13]: /publication/mathieu-2024/
+[14]: /publication/ding-2024/
+[15]: /publication/bhayankaram-2024/
+[16]: /publication/hibbitt-2024/
+[17]: /publication/ho-2024/
