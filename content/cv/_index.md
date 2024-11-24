@@ -4,6 +4,11 @@ author = ['Peter H. Charlton']
 draft = false
 +++
 
+{{% callout note %}}
+A complete CV can be downloaded [here](/cv/PeterHCharlton_CV_(2024-10-28).pdf).
+
+{{% /callout %}}
+
 ## Employment
 
 | Year | Position |
@@ -65,20 +70,3 @@ draft = false
 | 2022 | PhD Thesis Review, _University of Ferrara, Italy_ |
 | 2021 | PhD Thesis and Oral Examination, _University of Sydney, Australia_ |
 
-## Editorial Activities
-
-| Year | Activity |
-|---|---|
-| 2020 - present | Member of the [Executive Editorial Board](https://publishingsupport.iopscience.iop.org/journals/physiological-measurement/editorial-board/) of _Physiological Measurement_ |
-| 2018 - 2020 | Member of the International Advisory Board of _Physiological Measurement_ |
-| 2015 - present | Regular Peer Reviewer: see [here](https://www.webofscience.com/wos/author/record/Y-4334-2018) |
-| 2015 - 16 | Editor of a textbook on ['Secondary Analysis of Electronic Health Records'](https://doi.org/10.1007/978-3-319-43742-2), published by Springer in 2016 |
-
-## Responsibilities
-
-| Year | Responsibility |
-|---|---|
-| 2024 | [2024 Computing in Cardiology Conference](https://www.cinc2024.org/) Program Committee |
-| 2022 - present | Organiser of the Turing Special Interest Group on ['Meta-learning for multimodal data'](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) |
-| 2022 - 2024 | Physiological Measurement Special Interest Group Chair, [Institute of Physics and Engineering in Medicine](https://ipem.ac.uk/) |
-| 2021 - 2024 | Working Group Vice-Leader of [VascAgeNet](https://vascagenet.eu/), a network funded by the European Cooperation in Science and Technology |

@@ -125,6 +125,30 @@ draft = false
    Completed 2024
    
    Topic: Prioritising ECGs in atrial fibrillation screening for manual review.
+   
+- **MEng Project**, _University of Cambridge_ 
+
+   Ongoing
+   
+   Topic: Atrial fibrillation classification based on 'normal' ECGs
+   
+- **MEng Project**, _University of Cambridge_ 
+
+   Ongoing
+   
+   Topic: Detecting atrial fibrillation from RR-intervals
+   
+- **MEng Project**, _University of Cambridge_ 
+
+   Ongoing
+   
+   Topic: ECG quality assessment and atrial fibrillation detection
+   
+- **MSc Project**, _Technical University of Munich_ 
+
+   Ongoing
+   
+   Topic: Wrist-based photoplethysmography
 
 
 ## Academic Foundation Programme Placements
@@ -166,15 +190,13 @@ The following students conducted 6-week research projects under my supervision (
 
    Completed 2022
    
-   Related Publications:
+   Related Publication:
 
    - [Characterising RR Intervals in Atrial Fibrillation Detected through Screening][12]
    
 - **Katie Hibbitt**, Student Selected Component placement, _University of Cambridge_ 
 
    Completed 2022
-   
-   Topic: Factors influencing inter-rater reliability of atrial fibrillation diagnosis from single-lead ECGs
    
    Related Publication:
    
