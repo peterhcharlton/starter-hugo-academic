@@ -5,7 +5,7 @@ draft = false
 +++
 
 {{% callout note %}}
-A complete CV can be downloaded [here](/cv/PeterHCharlton_CV_(2024-10-28).pdf).
+A complete CV can be downloaded [here](/cv/PeterHCharlton_CV_(2025-03-11).pdf).
 
 {{% /callout %}}
 
@@ -30,6 +30,7 @@ A complete CV can be downloaded [here](/cv/PeterHCharlton_CV_(2024-10-28).pdf).
 
 | Year | Grant |
 |---|---|
+| 2024 | EPSRC Network Plus, &pound;1.75 mill (co-lead): _UK Open Multimodal AI Network_ |
 | 2023 | European Partnership on Metrology project, &#8364;2.1mill (co-applicant): _Uncertainty quantification for machine learning models applied to photoplethysmography signals_ |
 | 2022 | WD Armstrong PhD Studentship (PI): _Using Artificial Intelligence to Enhance Screening for Atrial Fibrillation_ |
 | 2021 | EPSRC Impact Acceleration Award, &pound;9.7k (PI): _Verifying algorithms to monitor respiratory rate in daily life with potential application to COVID-19_ |
@@ -58,6 +59,14 @@ A complete CV can be downloaded [here](/cv/PeterHCharlton_CV_(2024-10-28).pdf).
 | 2015 | Prize for a poster on attractor reconstruction signal processing, King's College London |
 | 2010 | Prize for a poster on research into elastic stability theory, University of Oxford |
 
+## Scientific Service
+
+| Year | Examination |
+|---|---|
+| 2024 - present | Editorial Board member for _PLOS Digital Health_ |
+| 2020 - present | Executive Editorial Board member for _Physiological Measurement_ |
+| 2022 - 2024 | Chair of IPEM's Special Interest Group on _Physiological Measurement_ |
+| 2021 - 2024 | Vice-leader of _VascAgeNet_ working group |
 
 ## Examinations
 
