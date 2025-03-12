@@ -10,8 +10,8 @@ authors:
 - Jonathan Mant
 - Panicos A. Kyriacou
 
-date: "2024-09-01T00:00:00Z"
-doi: ""
+date: "2025-03-11T00:00:00Z"
+doi: "10.1088/1361-6579/adb89e"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -23,10 +23,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Under review
-publication_short: Under review
+publication: Physiological Measurement
+publication_short: Physiological Measurement
 
-abstract: Objective&#58; Photoplethysmography is widely used for physiological monitoring, whether in clinical devices such as pulse oximeters, or consumer devices such as smart-watches. A key step in the analysis of photoplethysmogram (PPG) signals is detecting heartbeats. The MSPTD algorithm has been found to be one of the most accurate PPG beat detection algorithms, but is less computationally efficient than other algorithms. Therefore, the aim of this study was to develop a more efficient, open-source implementation of the MSPTD algorithm for PPG beat detection, named MSPTDfast (v.2). Approach&#58; Five potential improvements to MSPTD were identified and evaluated on four datasets. MSPTDfast (v.2) was designed by incorporating each improvement which on its own reduced execution time whilst maintaining a high F1-score. After internal validation, MSPTDfast (v.2) was benchmarked against state-of-the-art beat detection algorithms on four additional datasets. Main results&#58; MSPTDfast (v.2) incorporated two key improvements&#58; pre-processing PPG signals to reduce the sampling frequency to 20 Hz; and only calculating scalogram scales corresponding to heart rates >30 bpm. During internal validation MSPTDfast (v.2) was found to have an execution time of between approximately one-third and one-twentieth of MSPTD, and a comparable F1-score. During benchmarking MSPTDfast (v.2) was found to have the highest F1-score alongside MSPTD, and amongst one of the lowest execution times with only MSPTDfast (v.1), qppgfast and MMPD (v.2) achieving shorter execution times. Significance&#58; MSPTDfast (v.2) is an accurate and efficient PPG beat detection algorithm, available in an open-source Matlab toolbox.
+abstract: Objective&#58; photoplethysmography is widely used for physiological monitoring, whether in clinical devices such as pulse oximeters, or consumer devices such as smartwatches. A key step in the analysis of photoplethysmogram (PPG) signals is detecting heartbeats. The multi-scale peak &amp; trough detection (MSPTD) algorithm has been found to be one of the most accurate PPG beat detection algorithms, but is less computationally efficient than other algorithms. Therefore, the aim of this study was to develop a more efficient, open-source implementation of the MSPTD algorithm for PPG beat detection, named MSPTDfast (v.2). Approach&#58; five potential improvements to MSPTD were identified and evaluated on four datasets. MSPTDfast (v.2) was designed by incorporating each improvement which on its own reduced execution time whilst maintaining a high F1-score. After internal validation, MSPTDfast (v.2) was benchmarked against state-of-the-art beat detection algorithms on four additional datasets. Main results&#58; MSPTDfast (v.2) incorporated two key improvements&#58; pre-processing PPG signals to reduce the sampling frequency to 20 Hz; and only calculating scalogram scales corresponding to heart rates >30 bpm. During internal validation MSPTDfast (v.2) was found to have an execution time of between approximately one-third and one-twentieth of MSPTD, and a comparable F1-score. During benchmarking MSPTDfast (v.2) was found to have the highest F1-score alongside MSPTD, and amongst one of the lowest execution times with only MSPTDfast (v.1), qppgfast and MMPD (v.2) achieving shorter execution times. Significance&#58; MSPTDfast (v.2) is an accurate and efficient PPG beat detection algorithm, available in an open-source Matlab toolbox.
 
 # Summary. An optional shortened abstract.
 summary: Developing and benchmaking a more efficient, open-source implementation of the MSPTD photoplethysmography beat detection algorithm
@@ -42,7 +42,7 @@ links:
 - name: Preprint
   url: https://doi.org/10.1101/2024.08.23.24312514
 
-url_pdf: 'https://www.medrxiv.org/content/10.1101/2024.08.23.24312514v1.full.pdf'
+url_pdf: 'https://iopscience.iop.org/article/10.1088/1361-6579/adb89e/pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
