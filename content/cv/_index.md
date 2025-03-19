@@ -13,7 +13,8 @@ A complete CV can be downloaded [here](/cv/PeterHCharlton_CV_(2025-03-11).pdf).
 
 | Year | Position |
 |---|---|
-| 2020 - present | British Heart Foundation Research Fellow. _Department of Public Health and Primary Care, University of Cambridge_ |
+| 2025 - present | Senior Research Scientist. _Nokia Bell Labs_ |
+| 2020 - 25 | British Heart Foundation Research Fellow. _Department of Public Health and Primary Care, University of Cambridge_ |
 | 2017 - 20 | Research Associate. _Department of Biomedical Engineering, King's College London_ |
 | 2010 - 17 | Research Assistant. _Faculty of Life Sciences and Medicine, King's College London_ |
 | 2009 | Research Assistant. _Advanced Manufacturing Research Centre, University of Sheffield_ |

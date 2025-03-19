@@ -6,14 +6,13 @@ title: Peter Charlton
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow
+role: Senior Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Nokia Bell Labs
 - name: University of Cambridge
-  url: https://www.phpc.cam.ac.uk/people/pcu-group/researchers/peter-charlton/
-- name: City, University of London
-  url: https://researchcentres.city.ac.uk/biomedical-engineering
+  url: https://www.phpc.cam.ac.uk/staff/dr-peter-charlton
 
 # Short bio (displayed in user profile at end of posts)
 bio: Biomedical Engineer specialising in signal processing for wearables.
@@ -63,14 +62,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "pete@oxon.org"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Peter Charlton is a British Heart Foundation Research Fellow in the Department of Public Health and Primary Care, at the University of Cambridge. He develops biomedical signal processing techniques to analyse data from digital wearable devices for clinical decision making. 
+Peter Charlton is a Senior Research Scientist at Nokia Bell Labs. He specialises in signal processing for wearables, with applications in healthcare. 
 
-Peter gained the degree of M.Eng. in Engineering Science in 2010 from the University of Oxford with first class honours. From 2010 to 2020, Peter conducted his research at King's College London, developing techniques to use wearables to monitor cardiovascular and respiratory health. His Ph.D. focused on using signal processing and machine learning techniques to identify acute deteriorations in hospital patients. Peter is currently developing techniques to use clinical and consumer devices in screening for atrial fibrillation. He is leading a clinical study to assess the acceptability and performance of wearables in older adults.
-
-Peter works in collaboration with clinicians and industrial partners to translate his work into clinical practice.
+Peter gained the degree of M.Eng. in Engineering Science in 2010 from the University of Oxford with first class honours. From 2010 to 2020, Peter conducted his research at King's College London, developing techniques to use wearables to monitor cardiovascular and respiratory health. His Ph.D. focused on using signal processing and machine learning techniques to identify acute deteriorations in hospital patients. From 2020 to 2025,Peter developed techniques to use clinical and consumer devices in screening for atrial fibrillation. He led a clinical study to assess the acceptability and performance of wearables in older adults.

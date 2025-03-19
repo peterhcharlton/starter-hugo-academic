@@ -36,6 +36,7 @@ draft = false
 
    - [QRS detection in single-lead, telehealth electrocardiogram signals: benchmarking open-source algorithms][11]
    - [Comparing RR-Interval-Based and Whole-Signal-Based Machine Learning Models for Atrial Fibrillation Detection from Single-lead Electrocardiograms][14]
+   - [Accurate RR-interval extraction from single-lead, telehealth electrocardiogram signals][18]
    
 - [**Fatma Alimahomed**](https://www.imagingcdt.com/project/fetal-vascular-ultrasound-assessment-to-identify-growth-restriction-and-reduce-stillbirth/), _King's College London_ 
 
@@ -80,24 +81,6 @@ draft = false
 
 - **MEng Project**, _University of Cambridge_ 
 
-   Completed 2022
-   
-   Topic: Identifying atrial fibrillation in ECGs
-
-- **MEng Project**, _University of Cambridge_ 
-
-   Completed 2023
-   
-   Topic: Atrial fibrillation classification using scalograms and CNNs
-
-- **MEng Project**, _University of Cambridge_ 
-
-   Completed 2023
-   
-   Topic: Assessing cardiac age from ECGs
-
-- **MEng Project**, _University of Cambridge_ 
-
    Completed 2023
    
    Topic: Applications of Deep Learning in Atrial Fibrillation Screening
@@ -107,46 +90,10 @@ draft = false
    Completed 2023
    
    Topic: Reducing the Workload of Screening for Atrial Fibrillation by Optimising the ECG Reviewing Process
-
-- **MEng Project**, _University of Cambridge_ 
-
-   Completed 2024
-   
-   Topic: Resource-constrained algorithms for atrial fibrillation detection
-
-- **MEng Project**, _University of Cambridge_ 
-
-   Completed 2024
-   
-   Topic: ECG signal quality assessment
-   
-- **MEng Project**, _University of Cambridge_ 
-
-   Completed 2024
-   
-   Topic: Prioritising ECGs in atrial fibrillation screening for manual review.
-   
-- **MEng Project**, _University of Cambridge_ 
-
-   Ongoing
-   
-   Topic: Atrial fibrillation classification based on 'normal' ECGs
-   
-- **MEng Project**, _University of Cambridge_ 
-
-   Ongoing
-   
-   Topic: Detecting atrial fibrillation from RR-intervals
-   
-- **MEng Project**, _University of Cambridge_ 
-
-   Ongoing
-   
-   Topic: ECG quality assessment and atrial fibrillation detection
    
 - **MSc Project**, _Technical University of Munich_ 
 
-   Ongoing
+   Completed 2025
    
    Topic: Wrist-based photoplethysmography
 
@@ -224,9 +171,10 @@ The following students conducted 6-week research projects under my supervision (
 
    Completed 2024
    
-   Related Publication:
+   Related Publications:
    
    - [Automated RR Interval Detection and Quality Assessment in Telehealth Electrocardiograms][17]
+   - [Accurate RR-interval extraction from single-lead, telehealth electrocardiogram signals][18]
 
 
 ## Undergraduate Students
@@ -239,6 +187,7 @@ The following students conducted 6-week research projects under my supervision (
 
    - [QRS detection in single-lead, telehealth electrocardiogram signals: benchmarking open-source algorithms][11]
    - [Automated RR Interval Detection and Quality Assessment in Telehealth Electrocardiograms][17]
+   - [Accurate RR-interval extraction from single-lead, telehealth electrocardiogram signals][18]
 
 - **BEng Project**, _King's College London_ 
 
@@ -322,3 +271,4 @@ _NB: Names are only provided when they are in the public domain._
 [15]: /publication/bhayankaram-2024/
 [16]: /publication/hibbitt-2024/
 [17]: /publication/ho-2024/
+[18]: /publication/ho-2025/
